@@ -1,0 +1,3210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Resellerpanel\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Intergenia AG <h.kampen@intergenia.de>\n"
+"Language-Team: Intergenia AG <h.kampen@plusserver.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: USA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\n"
+
+msgid "detect_enconding"
+msgstr "ÄÜÖ (do not change this!)"
+
+msgid "domain_name"
+msgstr "powerpanel.com"
+
+msgid "intergenia_company"
+msgstr "Server4You"
+
+msgid "site_title"
+msgstr "Panel"
+
+msgid "address"
+msgstr "Address"
+
+msgid "email"
+msgstr "E-mail"
+
+msgid "phone"
+msgstr "Telephone"
+
+msgid "cell_phone"
+msgstr "Cell phone"
+
+msgid "fax"
+msgstr "Fax"
+
+msgid "user"
+msgstr "User"
+
+msgid "not_used"
+msgstr "Not used"
+
+msgid "preview"
+msgstr "Preview"
+
+msgid "file"
+msgstr "File"
+
+msgid "delete"
+msgstr "delete"
+
+msgid "status"
+msgstr "Status"
+
+msgid "source"
+msgstr "Source"
+
+msgid "on"
+msgstr "on"
+
+msgid "off"
+msgstr "off"
+
+msgid "test"
+msgstr "Test"
+
+msgid "test_validation"
+msgstr "Validate only"
+
+msgid "upload"
+msgstr "Upload"
+
+msgid "download"
+msgstr "Download"
+
+msgid "differences"
+msgstr "Differences"
+
+msgid "server"
+msgstr "Server"
+
+msgid "contract"
+msgstr "Contract"
+
+msgid "approval"
+msgstr "Approval"
+
+msgid "API"
+msgstr "API"
+
+msgid "customer"
+msgstr "Customer"
+
+msgid "edit"
+msgstr "Edit"
+
+msgid "gender_unknown"
+msgstr "unknown"
+
+msgid "gender_male"
+msgstr "Male"
+
+msgid "gender_female"
+msgstr "Female"
+
+msgid "salutation_company"
+msgstr "Company"
+
+msgid "salutation_mrs"
+msgstr "Ms"
+
+msgid "salutation_mr"
+msgstr "Mr"
+
+msgid "salutation_title_generic"
+msgstr "Dear Customer,"
+
+msgid "payment_interval_1_month"
+msgstr "/ month"
+
+msgid "payment_interval_1_year"
+msgstr "/ year"
+
+msgid "payment_interval_24_month"
+msgstr "/ 2 years"
+
+msgid "server_status_1"
+msgstr "Upcoming installation"
+
+msgid "server_status_2"
+msgstr "Recovery Mode active"
+
+msgid "server_status_3"
+msgstr "Upcoming Reboot"
+
+msgid "server_status_4"
+msgstr "Server blocked!"
+
+msgid "server_status_5"
+msgstr "Waiting for Recovery Mode"
+
+msgid "server_status_6"
+msgstr "Unconfirmed Restore"
+
+msgid "server_status_7"
+msgstr "Upcoming Recovery Mode"
+
+msgid "server_status_8"
+msgstr "Waiting for cancellation"
+
+msgid "lang_aa"
+msgstr "Afar"
+
+msgid "lang_ab"
+msgstr "Abkhaz"
+
+msgid "lang_af"
+msgstr "Afrikaans"
+
+msgid "lang_am"
+msgstr "Amharic"
+
+msgid "lang_ar"
+msgstr "Arabic"
+
+msgid "lang_as"
+msgstr "Assamese"
+
+msgid "lang_ay"
+msgstr "Aymara"
+
+msgid "lang_az"
+msgstr "Azerbaijanian"
+
+msgid "lang_ba"
+msgstr "Bashkir"
+
+msgid "lang_be"
+msgstr "Byelorussian"
+
+msgid "lang_bg"
+msgstr "Bulgarian"
+
+msgid "lang_bh"
+msgstr "Bihar"
+
+msgid "lang_bi"
+msgstr "Bislama"
+
+msgid "lang_bn"
+msgstr "Bengali"
+
+msgid "lang_bo"
+msgstr "Tibetan"
+
+msgid "lang_br"
+msgstr "Breton"
+
+msgid "lang_ca"
+msgstr "Catalan"
+
+msgid "lang_co"
+msgstr "Corsican"
+
+msgid "lang_cs"
+msgstr "Czech"
+
+msgid "lang_cy"
+msgstr "Welsh"
+
+msgid "lang_da"
+msgstr "Danish"
+
+msgid "lang_de"
+msgstr "German"
+
+msgid "lang_dz"
+msgstr "Dzongkha, Bhutani"
+
+msgid "lang_el"
+msgstr "Greek"
+
+msgid "lang_en"
+msgstr "English"
+
+msgid "lang_eo"
+msgstr "Esperanto"
+
+msgid "lang_es"
+msgstr "Spanish"
+
+msgid "lang_et"
+msgstr "Estonian"
+
+msgid "lang_eu"
+msgstr "Basque"
+
+msgid "lang_fa"
+msgstr "Persian"
+
+msgid "lang_fi"
+msgstr "Finnish"
+
+msgid "lang_fj"
+msgstr "Fiji"
+
+msgid "lang_fo"
+msgstr "Faroese"
+
+msgid "lang_fr"
+msgstr "French"
+
+msgid "lang_fy"
+msgstr "Frisian"
+
+msgid "lang_ga"
+msgstr "Irish"
+
+msgid "lang_gd"
+msgstr "Scots Gaelic"
+
+msgid "lang_gl"
+msgstr "Galician"
+
+msgid "lang_gn"
+msgstr "Guaraní"
+
+msgid "lang_gu"
+msgstr "Gujarati"
+
+msgid "lang_ha"
+msgstr "Hausa"
+
+msgid "lang_he"
+msgstr "Hebrew"
+
+msgid "lang_hi"
+msgstr "Hindi"
+
+msgid "lang_hr"
+msgstr "Croatian"
+
+msgid "lang_hu"
+msgstr "Hungarian"
+
+msgid "lang_hy"
+msgstr "Armenian"
+
+msgid "lang_ia"
+msgstr "Interlingua"
+
+msgid "lang_id"
+msgstr "Indonesian"
+
+msgid "lang_ie"
+msgstr "Interlingue"
+
+msgid "lang_ik"
+msgstr "Inupiak"
+
+msgid "lang_is"
+msgstr "Icelandic"
+
+msgid "lang_it"
+msgstr "Italian"
+
+msgid "lang_iu"
+msgstr "Inuktitut (Inuit)"
+
+msgid "lang_iw"
+msgstr "Hebrew (outdated, now: he)"
+
+msgid "lang_ja"
+msgstr "Japanese"
+
+msgid "lang_ji"
+msgstr "Yiddish (outdated, now: yi)"
+
+msgid "lang_jv"
+msgstr "Javanese"
+
+msgid "lang_ka"
+msgstr "Georgian"
+
+msgid "lang_kk"
+msgstr "Kazakh"
+
+msgid "lang_kl"
+msgstr "Kalaallisut (Greenlandic)"
+
+msgid "lang_km"
+msgstr "Cambodian"
+
+msgid "lang_kn"
+msgstr "Kannada"
+
+msgid "lang_ko"
+msgstr "Korean"
+
+msgid "lang_ks"
+msgstr "Kashmiri"
+
+msgid "lang_ku"
+msgstr "Kurdish"
+
+msgid "lang_ky"
+msgstr "Kirghiz"
+
+msgid "lang_la"
+msgstr "Latin"
+
+msgid "lang_ln"
+msgstr "Lingala"
+
+msgid "lang_lo"
+msgstr "Lao"
+
+msgid "lang_lt"
+msgstr "Lithuanian"
+
+msgid "lang_lv"
+msgstr "Latvian"
+
+msgid "lang_mg"
+msgstr "Malagasy"
+
+msgid "lang_mi"
+msgstr "Maori"
+
+msgid "lang_mk"
+msgstr "Macedonian"
+
+msgid "lang_ml"
+msgstr "Malayalam"
+
+msgid "lang_mn"
+msgstr "Mongolian"
+
+msgid "lang_mo"
+msgstr "Moldovan"
+
+msgid "lang_mr"
+msgstr "Marathi"
+
+msgid "lang_ms"
+msgstr "Malay"
+
+msgid "lang_mt"
+msgstr "Maltese"
+
+msgid "lang_my"
+msgstr "Burmese"
+
+msgid "lang_na"
+msgstr "Nauru"
+
+msgid "lang_ne"
+msgstr "Nepali"
+
+msgid "lang_nl"
+msgstr "Dutch"
+
+msgid "lang_no"
+msgstr "Norwegian"
+
+msgid "lang_oc"
+msgstr "Occitan"
+
+msgid "lang_om"
+msgstr "Oromo"
+
+msgid "lang_or"
+msgstr "Oriya"
+
+msgid "lang_pa"
+msgstr "Panjabi"
+
+msgid "lang_pl"
+msgstr "Polish"
+
+msgid "lang_ps"
+msgstr "Pushto"
+
+msgid "lang_pt"
+msgstr "Portuguese"
+
+msgid "lang_qu"
+msgstr "Quechua"
+
+msgid "lang_rm"
+msgstr "Romansh"
+
+msgid "lang_rn"
+msgstr "Rundi"
+
+msgid "lang_ro"
+msgstr "Romanian"
+
+msgid "lang_ru"
+msgstr "Russian"
+
+msgid "lang_rw"
+msgstr "Kinyarwanda"
+
+msgid "lang_sa"
+msgstr "Sanskrit"
+
+msgid "lang_sd"
+msgstr "Sindhi"
+
+msgid "lang_sg"
+msgstr "Sango"
+
+msgid "lang_sh"
+msgstr "Serbo-Croatian (outdated)"
+
+msgid "lang_si"
+msgstr "Sinhala"
+
+msgid "lang_sk"
+msgstr "Slovak"
+
+msgid "lang_sl"
+msgstr "Slovenian"
+
+msgid "lang_sm"
+msgstr "Samoan"
+
+msgid "lang_sn"
+msgstr "Shona"
+
+msgid "lang_so"
+msgstr "Somali"
+
+msgid "lang_sq"
+msgstr "Albanian"
+
+msgid "lang_sr"
+msgstr "Serbian"
+
+msgid "lang_ss"
+msgstr "Swati"
+
+msgid "lang_st"
+msgstr "Sotho"
+
+msgid "lang_su"
+msgstr "Sudanese"
+
+msgid "lang_sv"
+msgstr "Swedish"
+
+msgid "lang_sw"
+msgstr "Swahili"
+
+msgid "lang_ta"
+msgstr "Tamil"
+
+msgid "lang_te"
+msgstr "Telugu"
+
+msgid "lang_tg"
+msgstr "Tajik"
+
+msgid "lang_th"
+msgstr "Thai"
+
+msgid "lang_ti"
+msgstr "Tigrinya"
+
+msgid "lang_tk"
+msgstr "Turkmen"
+
+msgid "lang_tl"
+msgstr "Tagalog"
+
+msgid "lang_tn"
+msgstr "Tswana"
+
+msgid "lang_to"
+msgstr "Tonga "
+
+msgid "lang_tr"
+msgstr "Turkish"
+
+msgid "lang_ts"
+msgstr "Tsonga"
+
+msgid "lang_tt"
+msgstr "Tatar"
+
+msgid "lang_tw"
+msgstr "Twi"
+
+msgid "lang_ug"
+msgstr "Uighur"
+
+msgid "lang_uk"
+msgstr "Ukrainian"
+
+msgid "lang_ur"
+msgstr "Urdu"
+
+msgid "lang_uz"
+msgstr "Uzbek"
+
+msgid "lang_vi"
+msgstr "Vietnamese"
+
+msgid "lang_vo"
+msgstr "Volapük"
+
+msgid "lang_wo"
+msgstr "Wolof"
+
+msgid "lang_xh"
+msgstr "Xhosa"
+
+msgid "lang_yi"
+msgstr "Yiddish"
+
+msgid "lang_yo"
+msgstr "Yoruba"
+
+msgid "lang_za"
+msgstr "Zhuang"
+
+msgid "lang_zh"
+msgstr "Chinese"
+
+msgid "lang_zu"
+msgstr "Zulu"
+
+msgid "country_ad"
+msgstr "Andorra"
+
+msgid "country_ae"
+msgstr "United Arab Emirates"
+
+msgid "country_af"
+msgstr "Afghanistan"
+
+msgid "country_ag"
+msgstr "Antigua and Barbuda"
+
+msgid "country_ai"
+msgstr "Anguilla"
+
+msgid "country_al"
+msgstr "Albania"
+
+msgid "country_am"
+msgstr "Armenia"
+
+msgid "country_an"
+msgstr "Netherlands Antilles"
+
+msgid "country_ao"
+msgstr "Angola"
+
+msgid "country_aq"
+msgstr "Antarctica"
+
+msgid "country_ar"
+msgstr "Argentina"
+
+msgid "country_as"
+msgstr "American Samoa"
+
+msgid "country_at"
+msgstr "Austria"
+
+msgid "country_au"
+msgstr "Australia"
+
+msgid "country_aw"
+msgstr "Aruba"
+
+msgid "country_az"
+msgstr "Azerbaijan"
+
+msgid "country_ba"
+msgstr "Bosnia and Herzegowina"
+
+msgid "country_bb"
+msgstr "Barbados"
+
+msgid "country_bd"
+msgstr "Bangladesh"
+
+msgid "country_be"
+msgstr "Belgium"
+
+msgid "country_bf"
+msgstr "Burkina Faso"
+
+msgid "country_bg"
+msgstr "Bulgaria"
+
+msgid "country_bh"
+msgstr "Bahrain"
+
+msgid "country_bi"
+msgstr "Burundi"
+
+msgid "country_bj"
+msgstr "Benin"
+
+msgid "country_bm"
+msgstr "Bermudas"
+
+msgid "country_bn"
+msgstr "Brunei"
+
+msgid "country_bo"
+msgstr "Bolivia"
+
+msgid "country_br"
+msgstr "Brasil"
+
+msgid "country_bs"
+msgstr "Bahamas"
+
+msgid "country_bt"
+msgstr "Bhutan"
+
+msgid "country_bv"
+msgstr "Bouvet Island"
+
+msgid "country_bw"
+msgstr "Botswana"
+
+msgid "country_by"
+msgstr "Belarus"
+
+msgid "country_bz"
+msgstr "Belize"
+
+msgid "country_ca"
+msgstr "Canada"
+
+msgid "country_cc"
+msgstr "Cocos (Keeling) Islands"
+
+msgid "country_cd"
+msgstr "Democratic Republic of the Congo"
+
+msgid "country_cf"
+msgstr "Central African Republic"
+
+msgid "country_cg"
+msgstr "Congo"
+
+msgid "country_ch"
+msgstr "Switzerland"
+
+msgid "country_ci"
+msgstr "Cote d'Ivoire"
+
+msgid "country_ck"
+msgstr "Cook Islands"
+
+msgid "country_cl"
+msgstr "Chile"
+
+msgid "country_cm"
+msgstr "Cameroon"
+
+msgid "country_cn"
+msgstr "China"
+
+msgid "country_co"
+msgstr "Columbia"
+
+msgid "country_cr"
+msgstr "Costa Rica"
+
+msgid "country_cs"
+msgstr "Serbia and Montenegro"
+
+msgid "country_cu"
+msgstr "Cuba"
+
+msgid "country_cv"
+msgstr "Cape Verde"
+
+msgid "country_cx"
+msgstr "Christmas Island"
+
+msgid "country_cy"
+msgstr "Cyprus"
+
+msgid "country_cz"
+msgstr "Czech Republic"
+
+msgid "country_de"
+msgstr "Germany"
+
+msgid "country_dj"
+msgstr "Djibouti"
+
+msgid "country_dk"
+msgstr "Denmark"
+
+msgid "country_dm"
+msgstr "Dominica"
+
+msgid "country_do"
+msgstr "Dominican Republic"
+
+msgid "country_dz"
+msgstr "Algeria"
+
+msgid "country_ec"
+msgstr "Ecuador"
+
+msgid "country_ee"
+msgstr "Estonia"
+
+msgid "country_eg"
+msgstr "Egypt"
+
+msgid "country_eh"
+msgstr "Western Sahara"
+
+msgid "country_er"
+msgstr "Eritrea"
+
+msgid "country_es"
+msgstr "Spain"
+
+msgid "country_et"
+msgstr "Ethiopia"
+
+msgid "country_fi"
+msgstr "Finland"
+
+msgid "country_fj"
+msgstr "Fiji"
+
+msgid "country_fk"
+msgstr "Falkland Islands"
+
+msgid "country_fm"
+msgstr "Federated States of Micronesia"
+
+msgid "country_fo"
+msgstr "Faroe Islands"
+
+msgid "country_fr"
+msgstr "France"
+
+msgid "country_fx"
+msgstr "France (only Europe)"
+
+msgid "country_ga"
+msgstr "Gabon"
+
+msgid "country_gb"
+msgstr "Great Britain (UK)"
+
+msgid "country_gd"
+msgstr "Grenada"
+
+msgid "country_ge"
+msgstr "Georgia"
+
+msgid "country_gf"
+msgstr "French Guiana"
+
+msgid "country_gh"
+msgstr "Ghana"
+
+msgid "country_gi"
+msgstr "Gibraltar"
+
+msgid "country_gl"
+msgstr "Greenland"
+
+msgid "country_gm"
+msgstr "Gambia"
+
+msgid "country_gn"
+msgstr "Guinea"
+
+msgid "country_gp"
+msgstr "Guadeloupe"
+
+msgid "country_gq"
+msgstr "Equatorial Guinea"
+
+msgid "country_gr"
+msgstr "Greece"
+
+msgid "country_gs"
+msgstr "South Georgia and South Sandwich Islands"
+
+msgid "country_gt"
+msgstr "Guatemala"
+
+msgid "country_gu"
+msgstr "Guam"
+
+msgid "country_gw"
+msgstr "Guinea Bissau"
+
+msgid "country_gy"
+msgstr "Guyana"
+
+msgid "country_hk"
+msgstr "Hong Kong"
+
+msgid "country_hm"
+msgstr "Heard and Mc Donald Islands"
+
+msgid "country_hn"
+msgstr "Honduras"
+
+msgid "country_hr"
+msgstr "Croatia"
+
+msgid "country_ht"
+msgstr "Haiti"
+
+msgid "country_hu"
+msgstr "Hungary"
+
+msgid "country_id"
+msgstr "Indonesia"
+
+msgid "country_ie"
+msgstr "Ireland"
+
+msgid "country_il"
+msgstr "Israel"
+
+msgid "country_in"
+msgstr "India"
+
+msgid "country_io"
+msgstr "British Indian Ocean Territory"
+
+msgid "country_iq"
+msgstr "Iraq"
+
+msgid "country_ir"
+msgstr "Iran"
+
+msgid "country_is"
+msgstr "Iceland"
+
+msgid "country_it"
+msgstr "Italy"
+
+msgid "country_jm"
+msgstr "Jamaica"
+
+msgid "country_jo"
+msgstr "Jordan"
+
+msgid "country_jp"
+msgstr "Japan"
+
+msgid "country_ke"
+msgstr "Kenya"
+
+msgid "country_kg"
+msgstr "Kyrgyzstan"
+
+msgid "country_kh"
+msgstr "Cambodia"
+
+msgid "country_ki"
+msgstr "Kiribati"
+
+msgid "country_km"
+msgstr "Comoros"
+
+msgid "country_kn"
+msgstr "Saint Kitts And Nevis"
+
+msgid "country_kp"
+msgstr "Democratic People's Republic Of Korea"
+
+msgid "country_kr"
+msgstr "Republic of Korea"
+
+msgid "country_kw"
+msgstr "Kuwait"
+
+msgid "country_ky"
+msgstr "Cayman Islands"
+
+msgid "country_kz"
+msgstr "Kazakhstan"
+
+msgid "country_la"
+msgstr "Lao People's Democratic Republic"
+
+msgid "country_lb"
+msgstr "Lebanon"
+
+msgid "country_lc"
+msgstr "Saint Lucia"
+
+msgid "country_li"
+msgstr "Liechtenstein"
+
+msgid "country_lk"
+msgstr "Sri Lanka"
+
+msgid "country_lr"
+msgstr "Liberia"
+
+msgid "country_ls"
+msgstr "Lesotho"
+
+msgid "country_lt"
+msgstr "Lithuania"
+
+msgid "country_lu"
+msgstr "Luxembourg"
+
+msgid "country_lv"
+msgstr "Latvia"
+
+msgid "country_ly"
+msgstr "Libyan Arab Jamahiriya"
+
+msgid "country_ma"
+msgstr "Morocco"
+
+msgid "country_mc"
+msgstr "Monaco"
+
+msgid "country_md"
+msgstr "Republic of Moldova"
+
+msgid "country_mg"
+msgstr "Madagascar"
+
+msgid "country_mh"
+msgstr "Marshall Islands"
+
+msgid "country_mk"
+msgstr "The Former Yugoslav Republic Of Macedonia"
+
+msgid "country_ml"
+msgstr "Mali"
+
+msgid "country_mm"
+msgstr "Myanmar"
+
+msgid "country_mn"
+msgstr "Mongolia"
+
+msgid "country_mo"
+msgstr "Macau"
+
+msgid "country_mp"
+msgstr "Northern Mariana Islands"
+
+msgid "country_mq"
+msgstr "Martinique"
+
+msgid "country_mr"
+msgstr "Mauritania"
+
+msgid "country_ms"
+msgstr "Montserrat"
+
+msgid "country_mt"
+msgstr "Malta"
+
+msgid "country_mu"
+msgstr "Mauritius"
+
+msgid "country_mv"
+msgstr "Maldives"
+
+msgid "country_mw"
+msgstr "Malawi"
+
+msgid "country_mx"
+msgstr "Mexico"
+
+msgid "country_my"
+msgstr "Malaysia"
+
+msgid "country_mz"
+msgstr "Mozambique"
+
+msgid "country_na"
+msgstr "Namibia"
+
+msgid "country_nc"
+msgstr "New Caledonia"
+
+msgid "country_ne"
+msgstr "Niger"
+
+msgid "country_nf"
+msgstr "Norfolk Island"
+
+msgid "country_ng"
+msgstr "Nigeria"
+
+msgid "country_ni"
+msgstr "Nicaragua"
+
+msgid "country_nl"
+msgstr "Netherlands"
+
+msgid "country_no"
+msgstr "Norway"
+
+msgid "country_np"
+msgstr "Nepal"
+
+msgid "country_nr"
+msgstr "Nauru"
+
+msgid "country_nu"
+msgstr "Niue"
+
+msgid "country_nz"
+msgstr "New Zealand"
+
+msgid "country_om"
+msgstr "Oman"
+
+msgid "country_pa"
+msgstr "Panama"
+
+msgid "country_pe"
+msgstr "Peru"
+
+msgid "country_pf"
+msgstr "French Polynesia"
+
+msgid "country_pg"
+msgstr "Papua New Guinea"
+
+msgid "country_ph"
+msgstr "Philippines"
+
+msgid "country_pk"
+msgstr "Pakistan"
+
+msgid "country_pl"
+msgstr "Poland"
+
+msgid "country_pm"
+msgstr "St. Pierre and Miquelon"
+
+msgid "country_pn"
+msgstr "Pitcairn"
+
+msgid "country_pr"
+msgstr "Puerto Rico"
+
+msgid "country_ps"
+msgstr "Palestinian Territories "
+
+msgid "country_pt"
+msgstr "Portugal"
+
+msgid "country_pw"
+msgstr "Palau"
+
+msgid "country_py"
+msgstr "Paraguay"
+
+msgid "country_qa"
+msgstr "Qatar"
+
+msgid "country_re"
+msgstr "Reunion"
+
+msgid "country_ro"
+msgstr "Romania"
+
+msgid "country_ru"
+msgstr "Russian Federation"
+
+msgid "country_rw"
+msgstr "Rwanda"
+
+msgid "country_sa"
+msgstr "Saudi Arabia"
+
+msgid "country_sb"
+msgstr "Solomon Islands"
+
+msgid "country_sc"
+msgstr "Seychelles"
+
+msgid "country_sd"
+msgstr "Sudan"
+
+msgid "country_se"
+msgstr "Sweden"
+
+msgid "country_sg"
+msgstr "Singapore"
+
+msgid "country_sh"
+msgstr "St. Helena"
+
+msgid "country_si"
+msgstr "Slovenia"
+
+msgid "country_sj"
+msgstr "Svalbard and Jan Mayen Islands"
+
+msgid "country_sk"
+msgstr "Slovakia"
+
+msgid "country_sl"
+msgstr "Sierra Leone"
+
+msgid "country_sm"
+msgstr "San Marino"
+
+msgid "country_sn"
+msgstr "Senegal"
+
+msgid "country_so"
+msgstr "Somalia"
+
+msgid "country_sr"
+msgstr "Suriname"
+
+msgid "country_st"
+msgstr "Sao Tome and Principe"
+
+msgid "country_su"
+msgstr "Soviet Union (obsolete)"
+
+msgid "country_sv"
+msgstr "El Salvador"
+
+msgid "country_sy"
+msgstr "Syrian Arab Republic"
+
+msgid "country_sz"
+msgstr "Swaziland"
+
+msgid "country_tc"
+msgstr "Turks And Caicos Islands"
+
+msgid "country_td"
+msgstr "Chad"
+
+msgid "country_tf"
+msgstr "French Southern Territories"
+
+msgid "country_tg"
+msgstr "Togo"
+
+msgid "country_th"
+msgstr "Thailand"
+
+msgid "country_tj"
+msgstr "Tajikistan"
+
+msgid "country_tk"
+msgstr "Tokelau"
+
+msgid "country_tl"
+msgstr "East Timor"
+
+msgid "country_tm"
+msgstr "Turkmenistan"
+
+msgid "country_tn"
+msgstr "Tunisia"
+
+msgid "country_to"
+msgstr "Tonga"
+
+msgid "country_tr"
+msgstr "Turkey"
+
+msgid "country_tt"
+msgstr "Trinidad and Tobago"
+
+msgid "country_tv"
+msgstr "Tuvalu"
+
+msgid "country_tw"
+msgstr "Taiwan"
+
+msgid "country_tz"
+msgstr "Tanzania"
+
+msgid "country_ua"
+msgstr "Ukraine"
+
+msgid "country_ug"
+msgstr "Uganda"
+
+msgid "country_uk"
+msgstr "United Kingdom"
+
+msgid "country_um"
+msgstr "United States Minor Outlying Islands"
+
+msgid "country_us"
+msgstr "United States of America"
+
+msgid "country_uy"
+msgstr "Uruguay"
+
+msgid "country_uz"
+msgstr "Uzbekistan"
+
+msgid "country_va"
+msgstr "Vatican City State"
+
+msgid "country_vc"
+msgstr "Saint Vincent And The Grenadines"
+
+msgid "country_ve"
+msgstr "Venezuela"
+
+msgid "country_vg"
+msgstr "Virgin Islands (Brit.)"
+
+msgid "country_vi"
+msgstr "Virgin Islands (USA)"
+
+msgid "country_vn"
+msgstr "Vietnam"
+
+msgid "country_vu"
+msgstr "Vanuatu"
+
+msgid "country_wf"
+msgstr "Wallis And Futuna Islands"
+
+msgid "country_ws"
+msgstr "Samoa"
+
+msgid "country_ye"
+msgstr "Yemen"
+
+msgid "country_yt"
+msgstr "Mayotte"
+
+msgid "country_yu"
+msgstr "Yugoslavia (obsolete)"
+
+msgid "country_za"
+msgstr "South Africa"
+
+msgid "country_zm"
+msgstr "Zambia"
+
+msgid "country_zw"
+msgstr "Zimbabwe"
+
+msgid "month_january"
+msgstr "January"
+
+msgid "month_february"
+msgstr "February"
+
+msgid "month_march"
+msgstr "March"
+
+msgid "month_april"
+msgstr "April"
+
+msgid "month_may"
+msgstr "May"
+
+msgid "month_june"
+msgstr "June"
+
+msgid "month_july"
+msgstr "July"
+
+msgid "month_august"
+msgstr "August"
+
+msgid "month_september"
+msgstr "September"
+
+msgid "month_october"
+msgstr "October"
+
+msgid "month_november"
+msgstr "November"
+
+msgid "month_december"
+msgstr "December"
+
+msgid "date_format_long"
+msgstr "%d. %B %Y"
+
+msgid "datetime_format_long"
+msgstr "%d. %B %Y, %H:%M"
+
+msgid "date_format_short"
+msgstr "%d.%m.%Y"
+
+msgid "datetime_format_short"
+msgstr "%d.%m.%Y, %H:%M"
+
+msgid "menu_logout"
+msgstr "Log out"
+
+msgid "menu_basics"
+msgstr "Basics"
+
+msgid "menu_basics_overview"
+msgstr "Overview and Info"
+
+msgid "menu_imprint"
+msgstr "Legal Notice"
+
+msgid "menu_administration"
+msgstr "Administration"
+
+msgid "menu_customer_edit"
+msgstr "Contract Data"
+
+msgid "menu_password"
+msgstr "Change Password"
+
+msgid "menu_support"
+msgstr "Support"
+
+msgid "menu_stats"
+msgstr "Statistics"
+
+msgid "menu_tools"
+msgstr "Tools"
+
+msgid "menu_reboot"
+msgstr "Reboot"
+
+msgid "menu_recovery"
+msgstr "Recovery"
+
+msgid "menu_restore"
+msgstr "Restore"
+
+msgid "menu_backup_ftp"
+msgstr "Backup"
+
+msgid "menu_dns_and_domain"
+msgstr "DNS &amp; Domains"
+
+msgid "menu_allocate_ips"
+msgstr "Allocate IPs"
+
+msgid "menu_reverse_dns"
+msgstr "Reverse DNS"
+
+msgid "menu_dns"
+msgstr "Name Server"
+
+msgid "next_link"
+msgstr "Forward &gt;&gt;"
+
+msgid "next_alt"
+msgstr "Next Page"
+
+msgid "prev_link"
+msgstr "&lt;&lt; Back"
+
+msgid "prev_alt"
+msgstr "Previous Page"
+
+msgid "page_alt"
+msgstr "Page"
+
+msgid "first_page"
+msgstr "1st Page"
+
+msgid "last_page"
+msgstr "Last Page"
+
+msgid "button_submit"
+msgstr "Submit"
+
+msgid "button_save"
+msgstr "Save"
+
+msgid "button_cancel"
+msgstr "Cancel"
+
+msgid "button_next"
+msgstr "Next"
+
+msgid "button_edit"
+msgstr "Edit"
+
+msgid "button_delete"
+msgstr "Delete"
+
+msgid "button_change_language"
+msgstr "Change language"
+
+msgid "button_yes"
+msgstr "Yes"
+
+msgid "button_no"
+msgstr "No, cancel operation"
+
+msgid "select_please_select"
+msgstr "Please select"
+
+msgid "please_confirm"
+msgstr "Please confirm:"
+
+msgid "label_language"
+msgstr "Language:"
+
+msgid "label_company"
+msgstr "Company:"
+
+msgid "label_email"
+msgstr "E-mail:"
+
+msgid "label_homepage"
+msgstr "Homepage:"
+
+msgid "label_output_language"
+msgstr "Output language:"
+
+msgid "label_file"
+msgstr "File:"
+
+msgid "label_status"
+msgstr "Status:"
+
+msgid "label_url"
+msgstr "URL:"
+
+msgid "label_text"
+msgstr "Text:"
+
+msgid "label_select_contract"
+msgstr "Select contract:"
+
+msgid "label_user"
+msgstr "User:"
+
+msgid "label_password"
+msgstr "Password:"
+
+msgid "label_repeat_password"
+msgstr "Repeat password:"
+
+msgid "select_panel_language"
+msgstr "Select panel language"
+
+msgid "select_user_language"
+msgstr "Select user language"
+
+msgid "attribute_required"
+msgstr "Required field"
+
+msgid "attr_required"
+msgstr "Required field"
+
+msgid "required_fields"
+msgstr "Required fields are marked with a red dot."
+
+msgid "er_status_0"
+msgstr "Regular Mode"
+
+msgid "er_status_1"
+msgstr "Restore: Installation pending."
+
+msgid "er_status_2"
+msgstr "Recovery Mode active."
+
+msgid "er_status_3"
+msgstr "Reboot pending."
+
+msgid "er_status_4"
+msgstr "The server ist blocked. Please contact our Support."
+
+msgid "er_status_5"
+msgstr "Waiting for Recovery Mode."
+
+msgid "er_status_6"
+msgstr "Unconfirmed Restore."
+
+msgid "er_status_7"
+msgstr "Waiting for manual Restore Mode."
+
+msgid "not_available_for_this_server"
+msgstr "Not available for this server."
+
+msgid "not_available_premium"
+msgstr "Premium Tool: Not available for this server."
+
+msgid "no_contract_found"
+msgstr "No server or contract found"
+
+msgid "no_access"
+msgstr "No access"
+
+msgid "has_error"
+msgstr "Please check your entered data:"
+
+msgid "invalid_password_or_username"
+msgstr "Invalid password and/or user name."
+
+msgid "invalid_string_to_long"
+msgstr "{$column} is too long. {$maxlength} characters max. are allowed."
+
+msgid "invalid_integer"
+msgstr "Invalid digit for {$column}, min. size {$min}, max. size {$max}"
+
+msgid "invalid_subdomain"
+msgstr "Invalid subdomain <q>{$subdomain}</q>."
+
+msgid "password_forgotten_unknown_username"
+msgstr "Unknown user name"
+
+msgid "file_does_not_exits"
+msgstr "The file does not exist."
+
+msgid "upload_text_missing_vars"
+msgstr "The first section with the global entries is missing."
+
+msgid "upload_text_missing_sections"
+msgstr "The sections with module texts are missing."
+
+msgid "validate_lang_file"
+msgstr "The following entries are missing in the language file: {$missed}."
+
+msgid "upload_required"
+msgstr "The file for {$field} {$key} is required."
+
+msgid "upload_error"
+msgstr "The file {$name} could not be uploaded."
+
+msgid "upload_invalid_file_extension"
+msgstr "The file extension {$extension} is invalid."
+
+msgid "upload_invalid_file_size"
+msgstr "The file is too large. Maximum file size is {$max_file_size}."
+
+msgid "upload_no_gd_image"
+msgstr "{$name} is no valid image file."
+
+msgid "upload_image_to_wide"
+msgstr "{$name} is too wide. Maximum width is {$width} Px."
+
+msgid "upload_image_to_height"
+msgstr "{$name} is too high. Maximum height is {$width} Px."
+
+msgid "file_has_the_wrong_encoding"
+msgstr "The file has the wrong encoding ({$encoding} required) or the identification tag for the encoding is missing."
+
+msgid "missing_contact_type"
+msgstr "The contact type is missing."
+
+msgid "missing_salutation"
+msgstr "Please choose a salutation."
+
+msgid "missing_first_name"
+msgstr "Please enter your first name."
+
+msgid "missing_last_name"
+msgstr "Please enter your last name."
+
+msgid "missing_street"
+msgstr "Street name is missing."
+
+msgid "missing_zip_code"
+msgstr "The ZIP code is missing."
+
+msgid "missing_city"
+msgstr "Please enter a city."
+
+msgid "missing_country"
+msgstr "Please select a country."
+
+msgid "missing_state"
+msgstr "Please select a state."
+
+msgid "invalid_email"
+msgstr "The e-mail address is missing or invalid."
+
+msgid "missing_language"
+msgstr "Please select a language."
+
+msgid "invalid_contact_type"
+msgstr "Invalid contact type."
+
+msgid "invalid_phone"
+msgstr "Invalid number for {$phone_type}."
+
+msgid "invalid_user_name"
+msgstr "{$fieldset} The user name is invalid or already exists."
+
+msgid "invalid_password"
+msgstr "{$fieldset} The password is invalid."
+
+msgid "invalid_password_repeat"
+msgstr "{$fieldset} The password and the repeated password are different."
+
+msgid "invalid_url"
+msgstr "The URL is invalid."
+
+msgid "invalid_text"
+msgstr "The text is invalid."
+
+msgid "invalid_subject"
+msgstr "The subject is invalid."
+
+msgid "invalid_footer"
+msgstr "The footer is invalid."
+
+msgid "to_much_text_placeholder"
+msgstr "The following placeholders can not be used: {$placeholder}."
+
+msgid "missed_text_placeholder"
+msgstr "Please complete the following placeholders: {$placeholder}."
+
+msgid "invalid_css_color"
+msgstr "Invalid color definition in the field {$field}."
+
+msgid "invalid_css_font_size"
+msgstr "Invalid font size in the field {$field}."
+
+msgid "invalid_auth_code"
+msgstr "Invalid authorization code"
+
+msgid "invalid_reboot_method"
+msgstr "Invalid reboot method"
+
+msgid "invalid_ip"
+msgstr "Invalid IP"
+
+msgid "server_not_found"
+msgstr "The server is not available"
+
+msgid "server_not_available_by_tech"
+msgstr "The server is not available due to technical reasons."
+
+msgid "server_not_available_by_billing"
+msgstr "The server is not available due to contract reasons."
+
+msgid "please_select_a_display_type"
+msgstr "Please select a display type."
+
+msgid "legend_new_account"
+msgstr "New account"
+
+msgid "legend_account"
+msgstr "Account"
+
+msgid "invalid_template_id"
+msgstr "Invalid template"
+
+msgid "server_already_for_reseller"
+msgstr "The server has already been setup as reseller server."
+
+msgid "invalid_domain"
+msgstr "Invalid domain"
+
+msgid "missing_server_name"
+msgstr "The server name is missing or invalid."
+
+msgid "dns_error_variable_invalid"
+msgstr "This variable cannot be set."
+
+msgid "dns_error_domain_not_existing"
+msgstr "This domain does not exist."
+
+msgid "dns_error_domain_ownership_invalid"
+msgstr "This domain does not belong to you."
+
+msgid "dns_error_entry_not_existing"
+msgstr "This entry is not existing."
+
+msgid "dns_error_targetAddress_invalid"
+msgstr "The target address is invalid."
+
+msgid "dns_error_ipAddress_invalid"
+msgstr "The IP address is invalid."
+
+msgid "dns_error_domainName_invalid"
+msgstr "The domain name is invalid."
+
+msgid "dns_error_subDomain_invalid"
+msgstr "The sub domain is invalid."
+
+msgid "dns_error_dnsTypeID_invalid"
+msgstr "The selected sub domain type is invalid."
+
+msgid "dns_error_spfEntry_invalid"
+msgstr "The SPF entry is invalid."
+
+msgid "dns_error_domain_exists"
+msgstr "This domain is already existing."
+
+msgid "dns_error_domain_cannot_be_added"
+msgstr "This domain could not be added. Please contact the support team."
+
+msgid "dns_error_domain_cannot_be_loaded"
+msgstr "This domain could not be loaded. Please contact the support team."
+
+msgid "dns_error_domain_cannot_be_deleted"
+msgstr "This domain could not be deleted. Please contact the support team."
+
+msgid "dns_error_entry_cannot_be_added"
+msgstr "This entry could not be added. Please contact the support team."
+
+msgid "dns_error_entry_cannot_be_updated"
+msgstr "This entry could not be updated. Please contact the support team."
+
+msgid "dns_error_entry_cannot_be_deleted"
+msgstr "This entry could not be deleted. Please contact the support team."
+
+msgid "unavailable_option"
+msgstr "This option is not available for your server type."
+
+msgid "er_1"
+msgstr "Wrong date format"
+
+msgid "er_1001"
+msgstr "{#missing_server_name#}"
+
+msgid "er_1002"
+msgstr "{#server_not_found#}"
+
+msgid "er_1003"
+msgstr "The delay is invalid"
+
+msgid "er_1004"
+msgstr "Invalid method"
+
+msgid "er_1006"
+msgstr "Restore in progress"
+
+msgid "er_1007"
+msgstr "Recovery is <em>not</em> executed"
+
+msgid "er_1008"
+msgstr "There is already an open Reboot request for this server."
+
+msgid "er_1009"
+msgstr "The history could not be added"
+
+msgid "er_1010"
+msgstr "Subscription and Customer are missing"
+
+msgid "er_1011"
+msgstr "Reboot failed"
+
+msgid "er_1012"
+msgstr "The boot file could not be defined"
+
+msgid "er_1013"
+msgstr "Invalid software reboot"
+
+msgid "er_1103"
+msgstr "No templates found."
+
+msgid "er_1201"
+msgstr "{#server_not_found#}"
+
+msgid "er_1202"
+msgstr "{#missing_server_name#}"
+
+msgid "er_1203"
+msgstr "The authentication code is wrong"
+
+msgid "er_1204"
+msgstr "The template does not exist"
+
+msgid "er_1205"
+msgstr "There is no scheduled installation for this server."
+
+msgid "er_1206"
+msgstr "Invalid password"
+
+msgid "er_1207"
+msgstr "Another installation is scheduled."
+
+msgid "er_1208"
+msgstr "The history could not be updated."
+
+msgid "er_1209"
+msgstr "The restore could not be entered."
+
+msgid "er_1210"
+msgstr "The admin password is invalid."
+
+msgid "er_1211"
+msgstr "The bootfile could not be written or the server is blocked."
+
+msgid "er_1212"
+msgstr "The kickstart file could not be defined."
+
+msgid "er_1213"
+msgstr "Reboot request failed."
+
+msgid "er_1214"
+msgstr "No licenses available."
+
+msgid "er_1215"
+msgstr "The server is blocked."
+
+msgid "er_1301"
+msgstr "{#server_not_found#}"
+
+msgid "er_1302"
+msgstr "{#missing_server_name#}"
+
+msgid "er_1303"
+msgstr "There is no scheduled installation for this server."
+
+msgid "er_1304"
+msgstr "The reboot can not be canceled."
+
+msgid "er_1401"
+msgstr "{#server_not_found#}"
+
+msgid "er_1402"
+msgstr "{#missing_server_name#}"
+
+msgid "er_1403"
+msgstr "Restore in progress"
+
+msgid "er_1404"
+msgstr "The server is already in Recovery Mode"
+
+msgid "er_1405"
+msgstr "Invalid password"
+
+msgid "er_1406"
+msgstr "{#invalid_email#}"
+
+msgid "er_1407"
+msgstr "The history could not be added"
+
+msgid "er_1408"
+msgstr "The recovery entry could not be added"
+
+msgid "er_1409"
+msgstr "Recovery cancellation failed"
+
+msgid "er_1410"
+msgstr "The bootfile could not be set or the server is blocked"
+
+msgid "er_1411"
+msgstr "Reboot could not be executed"
+
+msgid "er_1501"
+msgstr "{#server_not_found#}"
+
+msgid "er_1502"
+msgstr "{#missing_server_name#}"
+
+msgid "er_1503"
+msgstr "The server is not in recovery mode"
+
+msgid "er_1504"
+msgstr "The bootfile could not be written or the server is blocked."
+
+msgid "er_1601"
+msgstr "{#server_not_found#}"
+
+msgid "er_1602"
+msgstr "{#missing_server_name#}"
+
+msgid "er_1603"
+msgstr "Invalid password"
+
+msgid "er_1604"
+msgstr "Invalid disk space value"
+
+msgid "er_1605"
+msgstr "The user already exists"
+
+msgid "er_1606"
+msgstr "Insufficient backup space."
+
+msgid "er_1607"
+msgstr "The entry could not be added to the history."
+
+msgid "er_1608"
+msgstr "The user could not be added."
+
+msgid "er_1701"
+msgstr "{#server_not_found#}"
+
+msgid "er_1702"
+msgstr "{#missing_server_name#}"
+
+msgid "er_1703"
+msgstr "Invalid password"
+
+msgid "er_1704"
+msgstr "Invalid disk space value"
+
+msgid "er_1705"
+msgstr "The user does not exist."
+
+msgid "er_1706"
+msgstr "Insufficient backup space."
+
+msgid "er_1707"
+msgstr "The database could not be updated."
+
+msgid "er_1901"
+msgstr "{#server_not_found#}"
+
+msgid "er_1902"
+msgstr "{#missing_server_name#}"
+
+msgid "er_1903"
+msgstr "Missing IP address"
+
+msgid "er_1904"
+msgstr "The IP addresses do not exist or do not belong to the server."
+
+msgid "er_1905"
+msgstr "The reverse entry has an invalid format or does not point to the IP address."
+
+msgid "er_1906"
+msgstr "There are no additional backup accounts available at the moment."
+
+msgid "er_2001"
+msgstr "{#server_not_found#}"
+
+msgid "er_2002"
+msgstr "No IP addresses found for this server."
+
+msgid "er_2003"
+msgstr "{#missing_server_name#}"
+
+msgid "er_2101"
+msgstr "{#server_not_found#}"
+
+msgid "er_2102"
+msgstr "{#missing_server_name#}"
+
+msgid "er_2103"
+msgstr "There are no IP addresses available at the moment, please contact our Support Department."
+
+msgid "er_2104"
+msgstr "There is an error in the amount"
+
+msgid "er_2201"
+msgstr "{#server_not_found#}"
+
+msgid "er_2202"
+msgstr "{#missing_server_name#}"
+
+msgid "er_2203"
+msgstr "The IP address does not belong to this server"
+
+msgid "er_2204"
+msgstr "This is the main IP address and can not be removed."
+
+msgid "er_2205"
+msgstr "The IP address is not allocated to a server."
+
+msgid "er_2206"
+msgstr "The IP address could not be removed."
+
+msgid "er_2801"
+msgstr "{#server_not_found#}"
+
+msgid "er_2802"
+msgstr "{#missing_server_name#}"
+
+msgid "er_2901"
+msgstr "No templates could be found for this server."
+
+msgid "er_2902"
+msgstr "{#server_not_found#}"
+
+msgid "er_2904"
+msgstr "[exception] Invalid parameter"
+
+msgid "er_10301"
+msgstr "Bandwidth: The server name could not be resolved."
+
+msgid "er_10302"
+msgstr "Bandwidth: No account ID has been given."
+
+msgid "er_10303"
+msgstr "Bandwidth: No subscription ID has been given."
+
+msgid "er_10304"
+msgstr "Bandwidth: No setting specified."
+
+msgid "er_10305"
+msgstr "Bandwidth: The e-mail address is invalid."
+
+msgid "er_10306"
+msgstr "Bandwidth: No daily or weekly e-mail has been chosen."
+
+msgid "er_10307"
+msgstr "Bandwidth: No type given."
+
+msgid "er_10309"
+msgstr "Bandwidth: Invalid caller ID."
+
+msgid "er_10308"
+msgstr "Bandwidth: The initial point could not be found."
+
+msgid "er_10310"
+msgstr "Bandwidth: No IP addresses."
+
+msgid "er_10311"
+msgstr "Bandwidth: At least 1 IP address is not assigned to the server."
+
+msgid "er_10312"
+msgstr "Bandwidth: The function listips gave an error."
+
+msgid "er_10313"
+msgstr "Bandwidth: Invalid data type."
+
+msgid "er_10314"
+msgstr "Bandwidth: The timeperiod was not set."
+
+msgid "er_10315"
+msgstr "Bandwidth: Wrong default settings."
+
+msgid "er_10316"
+msgstr "Bandwidth: Start time settings are wrong."
+
+msgid "er_10317"
+msgstr "Bandwidth: End time settings are wrong."
+
+msgid "er_10318"
+msgstr "Bandwidth: Export type is not specified."
+
+msgid "er_10319"
+msgstr "Bandwidth: The function getActiveSince failed."
+
+msgid "er_10320"
+msgstr "Bandwidth: The time period is too long."
+
+msgid "er_10321"
+msgstr "Bandwidth: The digits after the comma are wrong."
+
+msgid "er_10322"
+msgstr "Bandwidth: Wrong factor."
+
+msgid "er_10323"
+msgstr "The start date is before the contract start date."
+
+msgid "er_10324"
+msgstr "The end date is earlier than the start date."
+
+msgid "er_10325"
+msgstr "Bandwidth: The ZKM traffic information is not working."
+
+msgid "er_10330"
+msgstr "The caller ID is invalid."
+
+msgid "er_10332"
+msgstr "Bandwidth: The remote IP address is invalid."
+
+msgid "er_10331"
+msgstr "Bandwidth: Wrong mobile."
+
+msgid "er_10333"
+msgstr "Bandwidth: One or more settings include negative values."
+
+msgid "er_10334"
+msgstr "Bandwidth: Invalid setting (no digits ...)"
+
+msgid "er_10335"
+msgstr "Bandwidth: SMS warning: invalid setting"
+
+msgid "er_10336"
+msgstr "Bandwidth: Invalid time period"
+
+msgid "er_10337"
+msgstr "Bandwidth: No start time specified."
+
+msgid "er_10340"
+msgstr "Bandwidth: The last digits are invalid."
+
+msgid "er_10342"
+msgstr "Bandwidth: Invalid output."
+
+msgid "er_10343"
+msgstr "Bandwidth: Differing time periods"
+
+msgid "er_10344"
+msgstr "Bandwidth: Wrong name."
+
+msgid "er_10346"
+msgstr "Bandwidth: Graph data is insufficient."
+
+msgid "er_10347"
+msgstr "Bandwidth: No size specified."
+
+msgid "er_15555"
+msgstr "Product ID not defined"
+
+msgid "er_20001"
+msgstr "A technical error has occurred. The e-mail could not be sent."
+
+msgid "er_no_module_access"
+msgstr "The module is not available"
+
+msgid "page_title_Login"
+msgstr "Login"
+
+msgid "label_reseller_customers"
+msgstr "Reseller customers:"
+
+msgid "username_"
+msgstr "User name:"
+
+msgid "password_"
+msgstr "Password:"
+
+msgid "forgotten_password_title"
+msgstr "Forgot password?"
+
+msgid "forgotten_password_text"
+msgstr "If you have forgotten your password, you can enter your login name here. You will then receive a new password."
+
+msgid "button_login"
+msgstr "Login"
+
+msgid "title_password_was_send"
+msgstr "A new password has been set."
+
+msgid "text_password_was_send_1"
+msgstr "The new password has just been sent to your provided e-mail address."
+
+msgid "text_password_was_send_2"
+msgstr "<a href=\"/\">You may login again here</a>."
+
+msgid "to_much_logins"
+msgstr "Too many login attempts. Please wait a few minutes until you can login again."
+
+msgid "login_denied"
+msgstr "Login denied"
+
+msgid "page_title_Index"
+msgstr "Start"
+
+msgid "description_allocate_ips"
+msgstr "You can order additional IPs here."
+
+msgid "description_customer_edit"
+msgstr "Manage your user data."
+
+msgid "description_password"
+msgstr "Please change your password regularly."
+
+msgid "description_support"
+msgstr "Contact information for support requests."
+
+msgid "description_imprint"
+msgstr " "
+
+msgid "description_reboot"
+msgstr "Restart your server."
+
+msgid "description_recovery"
+msgstr "Switch your server to Recovery Mode."
+
+msgid "description_restore"
+msgstr "Reinstall your server."
+
+msgid "description_backup_ftp"
+msgstr "A backup tool for FTP."
+
+msgid "description_stats"
+msgstr "Tables and graphs showing your bandwidth."
+
+msgid "description_reverse_dns"
+msgstr "Setup and manage reverse entries."
+
+msgid "description_dns"
+msgstr " "
+
+msgid "page_title_ShowImprint"
+msgstr "Legal notice"
+
+msgid "page_title_ChangePassword"
+msgstr "Change password"
+
+msgid "legend_enter_password"
+msgstr "Enter password"
+
+msgid "description_password_1"
+msgstr "We recommend you change your password regulaly."
+
+msgid "header_2"
+msgstr "Information"
+
+msgid "description_password_2_1"
+msgstr "The system will log you out automatically after you have changed your password."
+
+msgid "description_password_2_2"
+msgstr "Your password has to be composed of at least 8 characters and a combination of letters and digits. You should choose a password, which can not be easily guessed by other people."
+
+msgid "js_invalid_password"
+msgstr "The password is invalid."
+
+msgid "js_invalid_password_repeat"
+msgstr "The password and the repeated password are different."
+
+msgid "page_title_Support"
+msgstr "Support"
+
+msgid "th_land"
+msgstr "Country:"
+
+msgid "th_phone"
+msgstr "Phone:"
+
+msgid "th_provider"
+msgstr "Provider:"
+
+msgid "th_tarif"
+msgstr "Rate:"
+
+msgid "th_worktime"
+msgstr "Business hours:"
+
+msgid "support_platinum_default"
+msgstr ""
+"WORKTIME:Mo-So, 7 a.m. - 0 p.m. CET\n"
+"PHONE:0800 4846484\n"
+"PRROVIDER:-\n"
+"RATE:free of charge (landline)\n"
+"COUNTRY:Germany"
+
+msgid "support_platinum_ch"
+msgstr ""
+"WORKTIME:Mo-So, 7 a.m. - 0 p.m. CET\n"
+"PHONE:0900 839859\n"
+"PRROVIDER:sunrise\n"
+"RATE:4,23 Francs/min (landline)\n"
+"COUNTRY:Switzerland"
+
+msgid "support_platinum_at"
+msgstr ""
+"WORKTIME:Mo-So, 7 a.m. - 0 p.m. CET\n"
+"PHONE:0900 530552\n"
+"PRROVIDER:atms\n"
+"RATE:2,16 Euro/min (landline)\n"
+"COUNTRY:Austria"
+
+msgid "support_premium_default"
+msgstr ""
+"WORKTIME:Mo-So, 7 a.m. - 0 p.m. CET\n"
+"PHONE:0180 3706020\n"
+"PRROVIDER:-\n"
+"RATE:9 Cent/min (landline)\n"
+"COUNTRY:Germany"
+
+msgid "support_premium_ch"
+msgstr ""
+"WORKTIME:Mo-So, 7 a.m. - 0 p.m. CET\n"
+"PHONE:0900 839859\n"
+"PRROVIDER:sunrise\n"
+"RATE:4,23 Franc/min (landline)\n"
+"COUNTRY:Switzerland"
+
+msgid "support_premium_at"
+msgstr ""
+"WORKTIME:Mo-So, 7 a.m. - 0 p.m. CET\n"
+"PHONE:0900 530552\n"
+"PRROVIDER:atms\n"
+"RATE:2,16 Euro/min (landline)\n"
+"COUNTRY:Austria"
+
+msgid "support_default"
+msgstr ""
+"WORKTIME:Mo-So, 7 a.m. - 0 p.m. CET\n"
+"PHONE:0900 123 1111\n"
+"PRROVIDER:dtms\n"
+"RATE:1,86 Euro/min (landline)\n"
+"COUNTRY:Germany"
+
+msgid "support_ch"
+msgstr ""
+"WORKTIME:Mo-So, 7 a.m. - 0 p.m. CET\n"
+"PHONE:0900 839859\n"
+"PRROVIDER:sunrise\n"
+"RATE:4,23 Franc/min (landline)\n"
+"COUNTRY:Switzerland"
+
+msgid "support_at"
+msgstr ""
+"WORKTIME:Mo-So, 7 a.m. - 0 p.m. CET\n"
+"PHONE:0900 530552\n"
+"PRROVIDER:atms\n"
+"RATE:2,16 Euro/min (landline)\n"
+"COUNTRY:Austria"
+
+msgid "page_title_Statistiken"
+msgstr "Stats"
+
+msgid "page_title_CustomerEdit"
+msgstr "Contract data"
+
+msgid "title_customer_config"
+msgstr "Name, address, contact"
+
+msgid "title_user_account"
+msgstr "User account"
+
+msgid "legend_name"
+msgstr "Name"
+
+msgid "legend_address"
+msgstr "Address"
+
+msgid "legend_contact"
+msgstr "Contact"
+
+msgid "legend_miscellaneous"
+msgstr "Misc."
+
+msgid "label_contact_type"
+msgstr "Salutation:"
+
+msgid "label_gender"
+msgstr "Gender:"
+
+msgid "label_firstname"
+msgstr "First Name:"
+
+msgid "label_middlename"
+msgstr "Middle Name:"
+
+msgid "label_lastname"
+msgstr "Last Name:"
+
+msgid "label_street"
+msgstr "Street Name:"
+
+msgid "label_address_addition"
+msgstr "Address Addition:"
+
+msgid "label_zipcode"
+msgstr "ZIP code:"
+
+msgid "label_city"
+msgstr "City:"
+
+msgid "label_country"
+msgstr "Country:"
+
+msgid "label_state"
+msgstr "State:"
+
+msgid "label_phone"
+msgstr "Phone:"
+
+msgid "label_cell_phone"
+msgstr "Cell Phone:"
+
+msgid "label_fax"
+msgstr "Fax:"
+
+msgid "label_reseller_id"
+msgstr "Your customer ID:"
+
+msgid "label_allow_add_user"
+msgstr "User is allowed to add further users."
+
+msgid "label_block_panel_for_user"
+msgstr "Block Reseller Panel for this user."
+
+msgid "label_send_message_to_customer"
+msgstr "Send notification of change to customer."
+
+msgid "attribute_phone_country"
+msgstr "Country code"
+
+msgid "attribute_phone_city"
+msgstr "Area code"
+
+msgid "attribute_phone_number"
+msgstr "Number"
+
+msgid "button_delete_customer"
+msgstr "Delete customer"
+
+msgid "page_title_Restore"
+msgstr "PowerRestore"
+
+msgid "page_title_Restore_extra"
+msgstr "PremiumRestore"
+
+msgid "header_1"
+msgstr "Request a Reinstall"
+
+msgid "header_3"
+msgstr "E-mail verification"
+
+msgid "os_select"
+msgstr "Operating system and control panel"
+
+msgid "password"
+msgstr "Root password"
+
+msgid "admin_password"
+msgstr "Admin password"
+
+msgid "continue"
+msgstr "Next"
+
+msgid "description_text_1"
+msgstr "Here you may reset your server to its original status. Your restore will start immediately after you've confirmed the authorization code (will be sent by e-mail) and selected the operating system. <strong>Remember that all data will be lost.</strong><br /><br />Before restoring your server, you should remember to backup all important data. A restore is free."
+
+msgid "description_text_1_lite"
+msgstr "Here you may reset your server to its original status. Your restore will start within 2 hours after you've confirmed the authorization code (will be sent by e-mail). <strong>Remember that all data will be lost.</strong><br /><br />Before restoring your server, you should remember to backup all important data. A restore is free."
+
+msgid "auth_code"
+msgstr "Please enter your authorization code, which has been sent by e-mail:"
+
+msgid "button_restore"
+msgstr "Proceed to authorization code"
+
+msgid "start_restore"
+msgstr "Start Installation"
+
+msgid "continue_step2"
+msgstr "Proceed to selection of operating system"
+
+msgid "restore_active_text"
+msgstr "Server restore is already pending. You can cancel the server restore from this page."
+
+msgid "restore_pending_text"
+msgstr "Unconfirmed server restore is already pending."
+
+msgid "restore_cancel"
+msgstr "Cancel server restore"
+
+msgid "restore_confirmed"
+msgstr "Server restore confirmed"
+
+msgid "cancel_restore_text"
+msgstr "If you cancel the restore in the middle of the process, you might end with a non-functional operating system. Are you sure that you want to proceed?"
+
+msgid "label_selected_server"
+msgstr "Selected server:"
+
+msgid "label_admin_password"
+msgstr "Admin password:"
+
+msgid "page_title_Traffic"
+msgstr "PowerStats"
+
+msgid "title_index"
+msgstr "Bandwidth overview"
+
+msgid "title_ianalyze"
+msgstr "Analyze"
+
+msgid "title_export"
+msgstr "Export"
+
+msgid "title_statistics"
+msgstr "Stats"
+
+msgid "link_traffic"
+msgstr "PowerStats"
+
+msgid "link_statistics"
+msgstr "Stats"
+
+msgid "all_ips"
+msgstr "All IPs"
+
+msgid "statistics_desc"
+msgstr "The following stats represent bandwidth on the specific day, time, and IP address. The stats are shown over a period of 30 days."
+
+msgid "statistics_desc_lite"
+msgstr "Below you can see the bandwidth stats of your server resulting from each day. Here you shall find a 30 day history of your bandwidth usage."
+
+msgid "weekly_graphics"
+msgstr "Weekly"
+
+msgid "hourly_graphics"
+msgstr "Hourly"
+
+msgid "ip_graphics"
+msgstr "IP Stats"
+
+msgid "billing_period_desc"
+msgstr "Current billing period:"
+
+msgid "premium_stats_only"
+msgstr "Available with PremiumStats only"
+
+msgid "period"
+msgstr "Time period"
+
+msgid "from"
+msgstr "from"
+
+msgid "to"
+msgstr "to"
+
+msgid "ip_addresses"
+msgstr "IP addresses"
+
+msgid "traffic"
+msgstr "Bandwidth"
+
+msgid "free_traffic"
+msgstr "Free"
+
+msgid "overfree"
+msgstr "Exceeded Bandwidth"
+
+msgid "cost"
+msgstr "Cost"
+
+msgid "start"
+msgstr "Start"
+
+msgid "end"
+msgstr "End"
+
+msgid "date"
+msgstr "Date"
+
+msgid "downstream"
+msgstr "OUT"
+
+msgid "upstream"
+msgstr "IN"
+
+msgid "total"
+msgstr "Total"
+
+msgid "more"
+msgstr "Details"
+
+msgid "button_back"
+msgstr "Back"
+
+msgid "one_month"
+msgstr "(one month)"
+
+msgid "page_title_Reboot"
+msgstr "Reboot"
+
+msgid "page_title_Reboot_extra"
+msgstr "Reboot"
+
+msgid "header__reboot"
+msgstr "Request Reboot "
+
+msgid "header_reboot_lite"
+msgstr "Request Reboot"
+
+msgid "button_cancel_reboot"
+msgstr "Cancel Reboot"
+
+msgid "description_reboot_1"
+msgstr "The {$page_title} offers you two simple ways to restart your server in the customer interface: Software and Hardware Reboot.<br /><br />For a Software Reboot - provided that the server still reacts -  the command ctrl-alt-del will be given to the server via the keyboard interface. This is the easiest way to restart your server because the operating system will stop all running services normally. <br /><br />If your server does not react to a Software Reboot, the option of a Hardware Reboot remains. The Hardware Reboot restarts the computer, whether or not the operating system still reacts, as if someone had pressed the reset button. <br /><br />With {$page_title}, both commands will be given to your server within 10 seconds, so that it reboots immediately and works again to your full satisfaction."
+
+msgid "description_reboot_1_lite"
+msgstr "The {$page_title} offers you two simple ways to restart your server in the customer interface: Software and Hardware Reboot.<br /><br />For a Software Reboot - provided that the server still reacts -  the command ctrl-alt-del will be given to the server via the keyboard interface. This is the easiest way to restart your server because the operating system will stop all running services normally. <br /><br />If your server does not react to a Software Reboot, the option of a Hardware Reboot remains. The Hardware Reboot restarts the computer, whether or not the operating system still reacts, as if someone had pressed the reset button. <br /><br />With {$page_title}, both commands will be given to your server within 15 minutes, so that it works again to your full satisfaction."
+
+msgid "description_reboot_1_manual"
+msgstr "The {$page_title} offers you a simple way to restart your server through the customer interface. Please be patient until the Reboot has been executed."
+
+msgid "attention"
+msgstr "Please note! This functionality can cause unavailability of your server and data loss. We do not provide any guarantee."
+
+msgid "reboot_15min_text"
+msgstr "{$page_title} within 15 minutes"
+
+msgid "reboot_premium_text"
+msgstr "{$page_title} <br />at once"
+
+msgid "server_name"
+msgstr "Server name"
+
+msgid "method"
+msgstr "Reboot method"
+
+msgid "label_method"
+msgstr "Reboot method:"
+
+msgid "method_HWR"
+msgstr "Hardware Reboot (HWR)"
+
+msgid "method_SWR"
+msgstr "Software Reboot (SWR)"
+
+msgid "method_manual"
+msgstr "Manual Reboot"
+
+msgid "timing"
+msgstr "Timing"
+
+msgid "timing_delayed"
+msgstr "Delayed (within 30 minutes), free"
+
+msgid "warning_message"
+msgstr "WARNING! Choosing this option could result in data loss on your server."
+
+msgid "button_reboot"
+msgstr "Reboot server"
+
+msgid "hard_reset"
+msgstr "Hard Reset"
+
+msgid "soft_reset"
+msgstr "Soft Reset"
+
+msgid "reboot_confirm_header"
+msgstr "Confirmation"
+
+msgid "reboot_confirm_message"
+msgstr "Are you sure you want to reboot your server?"
+
+msgid "reboot_does_not_work"
+msgstr "The server can not be rebooted. Please contact our Support."
+
+msgid "reboot_help"
+msgstr "Problems with SoftReboot?"
+
+msgid "reboot_working_webresetter"
+msgstr "<strong>Your server is rebooted now.</strong><br /><br />If your server is not available again after 30 minutes, you can cancel the Reboot and execute it again."
+
+msgid "reboot_working_manual"
+msgstr "<strong>There is already a request for a manual reboot of your server.</strong><br /><br />Please be patient."
+
+msgid "last_reboot"
+msgstr "Last reboot:"
+
+msgid "info_title_1"
+msgstr "Problems with Software Reboot?"
+
+msgid "info_content_1"
+msgstr "<p>In case the Software Reboot should fail, which might happen with a few motherboards or operating system configurations, you still have the possibility to change the boot kernel option as follows:</p> <p>Open the file <code>/boot/grub/menu.lst</code> in an editor <code>#&gt; mcedit /boot/grub/menu.lst</code> and add to the line, which starts with <code>&quot; kernel..&quot;</code>, the following option at the end: <code>acpi=off</code></p> <p>The result should look like:</p> <p><code>| title test123.{#domain_name#} <br />| kernel (hd0,0)/vmlinuz root=/dev/hda3 <br />vga=0x303 <br />load_ramdisk=1 <br />desktop splash=silent <br />showopts acpi=off | <br />initrd (hd0,0)/initrd</code></p> <p>After a restart, the Software Reboot works just like the Hardware Reboot over your interface. This option does not have a negative effect on your server's performance and can be used on all server systems without any risk.</p>"
+
+msgid "page_title_Recovery"
+msgstr "Recovery"
+
+msgid "page_title_Recovery_extra"
+msgstr "Recovery"
+
+msgid "header_recovery"
+msgstr "Request Recovery"
+
+msgid "header_recovery_lite"
+msgstr "Request Recovery"
+
+msgid "brief_desc"
+msgstr "Short description"
+
+msgid "brief_desc_text"
+msgstr "The Recovery System enables the customers to access their servers in case of a system crash or a faulty configuration, and to repair it. When executing the Recovery System, a small Ubuntu Linux system is started on a Linux server, or a small Windows system on a Windows server, respectively, without using the internal hard disk of the server.<br />The system contains the most important tools and programs to get your server running again."
+
+msgid "what_can_do"
+msgstr "Which jobs can I carry out with the help of the recovery system?"
+
+msgid "what_can_do_text"
+msgstr "<ul> <li>Customization of configuration data</li> <li>New partitioning of the hard disk</li> <li>Resetting of passwords</li> <li>Repairing of file system errors</li> <li>Execution of a manual file system check in case of a failed reboot</li> <li>Installation of other Linux distributions</li> </ul>"
+
+msgid "button_execute"
+msgstr "Execute within the next two hours"
+
+msgid "button_execute_premium"
+msgstr "Execute"
+
+msgid "password_given"
+msgstr "Password has been given"
+
+msgid "how_to_login"
+msgstr "Access to the recovery system"
+
+msgid "how_to_login_text"
+msgstr "After you've requested the recovery, you will receive an e-mail to inform you that your server was booted into recovery mode. You can now log into your server with SSH and the known IP using the user name root and the password you choose on the next page. Please note that your normal root password is not valid in recovery mode."
+
+msgid "first_steps"
+msgstr "First steps in the Recovery system"
+
+msgid "first_steps_text"
+msgstr "Please note that the recovery system is only aimed at experienced Linux users and in order to avoid serious damage to the server should only be used by them. As soon as you log into the recovery system, you will receive a short introduction to the system."
+
+msgid "legend_recovery"
+msgstr "Required information:"
+
+msgid "info_root_password"
+msgstr "Set root password for Recovery Mode:"
+
+msgid "info_recovery_email"
+msgstr "E-mail address for the confirmation of the executed Recovery System:"
+
+msgid "recovery_active_text"
+msgstr "The recovery mode is active. You can cancel the Recovery System below."
+
+msgid "recovery_waiting_text"
+msgstr "The recovery mode is pending. You can cancel the Recovery System on this page."
+
+msgid "recovery_waiting_for_active_text"
+msgstr "The recovery mode is pending. You can cancel the Recovery System on this page."
+
+msgid "recovery_cancel"
+msgstr "Cancel Recovery"
+
+msgid "cancel_recovery_text"
+msgstr "Are you sure that you want to cancel the recovery mode?"
+
+msgid "page_title_BackupFtp"
+msgstr "Backup"
+
+msgid "page_title_BackupFtp_extra"
+msgstr "Backup"
+
+msgid "legend_change_password"
+msgstr "Change password"
+
+msgid "legend_add_account"
+msgstr "Add account"
+
+msgid "header_ftp"
+msgstr "FTP Backup"
+
+msgid "description_ftp_1"
+msgstr "You have the possibility to save up to {$iMinAmount} GB of data on an FTP server. Please note: the data on this FTP server is not additionally backed up. We are not responsible for any possible data losses. Remember that you can only login to the FTP server from your own server."
+
+msgid "backup_server"
+msgstr "Backup server"
+
+msgid "login"
+msgstr "Login"
+
+msgid "hint"
+msgstr "Information"
+
+msgid "hint_text"
+msgstr "In the field below, you can change your password anytime.<br />This password must consist of 6 characters minimum. It must also contain alpha-numeric characters only."
+
+msgid "new_password"
+msgstr "New password"
+
+msgid "new_quotasize"
+msgstr "New quota size, GB"
+
+msgid "hint_text_2"
+msgstr " "
+
+msgid "hint_no_backup"
+msgstr "You have no backup account. You may create a new one here."
+
+msgid "hint_no_backup_acc"
+msgstr "Your account doesn't allow you to have backup storage."
+
+msgid "space"
+msgstr "Space in GB"
+
+msgid "or"
+msgstr "or"
+
+msgid "other_size"
+msgstr "Other"
+
+msgid "delete_backup"
+msgstr "Delete this backup account"
+
+msgid "delete_backup_ask"
+msgstr "Are you sure that you want to delete this backup account?"
+
+msgid "b_save_password"
+msgstr "Save Password"
+
+msgid "b_save_quotasize"
+msgstr "Save Backup Space"
+
+msgid "page_title_AllocateIps"
+msgstr "Manage IPs"
+
+msgid "header_ips_1"
+msgstr "IP Allocation"
+
+msgid "header_ips_2"
+msgstr "IP Cancellation"
+
+msgid "description_ips_1"
+msgstr "IP Administration"
+
+msgid "label_add_ip"
+msgstr "Add IP"
+
+msgid "description_ips_2"
+msgstr "You can order new IP addresses or cancel existing IPs here. It is not possible to cancel IP addresses, which you received with the server itself."
+
+msgid "footer_text_1"
+msgstr "You can order up to {$max_amount} additional IP addresses."
+
+msgid "footer_text_2"
+msgstr "{$free_amount} are free of charge."
+
+msgid "footer_text_3"
+msgstr "An additional IP is charged for with a handling fee of {$sPrice} EUR/month."
+
+msgid "footer_text_4"
+msgstr "If you require more IP adresses, you must justify per ARIN guidelines. Please contact our Sales Department for further information."
+
+msgid "button_order_ip"
+msgstr "Order new IP address"
+
+msgid "order_ip_question"
+msgstr "Are you sure you want to order a new IP address for {$sPrice} per month?"
+
+msgid "order_ip_question_no_price"
+msgstr "Are you sure that you would like to order an extra IP address?"
+
+msgid "order_ip_success"
+msgstr "We have received your order. You will now receive an e-mail with your new IP address. In case of any problems with your ip-address configuration please contact our technical support."
+
+msgid "label_delete_ip"
+msgstr "Delete IP"
+
+msgid "delete_ip_question"
+msgstr "Are you sure you want to cancel the IP address {$sIp}?"
+
+msgid "delete_ip_success"
+msgstr "You have now cancelled the IP address and will soon receive an e-mail with additional information. Please remove this IP address from your server within the next 72 hours. Should you have problems removing the IP, please contact our technical support."
+
+msgid "cancel_ip"
+msgstr "Cancel"
+
+msgid "ip_type_0"
+msgstr "Main IP"
+
+msgid "ip_type_1"
+msgstr "Main IP"
+
+msgid "ip_type_2"
+msgstr "Additional IP address"
+
+msgid "th_ip"
+msgstr "IP"
+
+msgid "th_option"
+msgstr "Option"
+
+msgid "page_title_ReverseDns"
+msgstr "Reverse DNS"
+
+msgid "page_title_ReverseDns_extra"
+msgstr "Reverse DNS"
+
+msgid "header_reversedns"
+msgstr "Reverse DNS"
+
+msgid "header_reversedns_lite"
+msgstr "Reverse DNS"
+
+msgid "reverse_changed"
+msgstr "The reverse entry has been changed."
+
+msgid "btn_change"
+msgstr "Change"
+
+msgid "reverse_for"
+msgstr "Reverse entry for"
+
+msgid "backwards"
+msgstr "Back"
+
+msgid "forwards"
+msgstr "Forward"
+
+msgid "page"
+msgstr "Page"
+
+msgid "delete_reverse"
+msgstr "Delete reverse entry"
+
+msgid "description_reversedns_1"
+msgstr "You can freely choose the reverse entry."
+
+msgid "description_reversedns_1_lite"
+msgstr "With PremiumReverse you can freely select the reverse entry."
+
+msgid "description_reversedns_2"
+msgstr "Please note that spaces and special characters are not allowed. Make sure that the reverse entry refers to a name which already exists. Leave the field empty in order to receive the standard entry on basic server IPs or to remove an existing reverse entry on additional IPs.<br /><br />If you are using a class C net, the standard entry on basic server IPs may not be accepted."
+
+msgid "page_title_Dns"
+msgstr "DNS Service"
+
+msgid "page_title_Dns_extra"
+msgstr "DNS Service"
+
+msgid "dns_headline"
+msgstr "DNS Management"
+
+msgid "dns_domainOverviewLink"
+msgstr "Domain overview"
+
+msgid "dns_addDomainLink"
+msgstr "Add domain"
+
+msgid "dns_domainTableHeader"
+msgstr "Domain"
+
+msgid "dns_optionTableHeader"
+msgstr "Option"
+
+msgid "dns_targetIpTableHeader"
+msgstr "IP"
+
+msgid "dns_entryDescriptionTableHeader"
+msgstr "&nbsp;"
+
+msgid "dns_subDomainTableHeader"
+msgstr "Subdomain"
+
+msgid "dns_typeTableHeader"
+msgstr "Type"
+
+msgid "dns_prioTableHeader"
+msgstr "Prio."
+
+msgid "dns_prioTableTitle"
+msgstr "Prio"
+
+msgid "dns_targetTableHeader"
+msgstr "Target"
+
+msgid "dns_viewTableOption"
+msgstr "manage"
+
+msgid "dns_deleteTableOption"
+msgstr "delete"
+
+msgid "dns_pendingDeleteTableOption"
+msgstr "pending delete *"
+
+msgid "dns_editTableOption"
+msgstr "edit"
+
+msgid "dns_domainList"
+msgstr "Domain overview"
+
+msgid "dns_domainListDescription"
+msgstr "Here you can see a list of your domains."
+
+msgid "dns_noDomains"
+msgstr "You have no domain entries on our nameservers."
+
+msgid "dns_mainAddress"
+msgstr "Main IP"
+
+msgid "dns_addDomain"
+msgstr "Add domain"
+
+msgid "dns_addDomainDescription"
+msgstr "Please fill out the fields and submit the form to add a new domain."
+
+msgid "dns_deleteDomain"
+msgstr "Delete domain"
+
+msgid "dns_deleteDomainDescription"
+msgstr "Please confirm that you want to delete this domain."
+
+msgid "dns_pendingDeleteInfo"
+msgstr "* this domain is marked for deletion and will be deleted from the name server soon."
+
+msgid "dns_listEntries"
+msgstr "Domain entries for domain"
+
+msgid "dns_listEntriesDescription"
+msgstr "This is a list of the entries for the selected domain. Changes in this settings can cause problems with the domain's functionality."
+
+msgid "dns_deleteEntry"
+msgstr "Delete entry"
+
+msgid "dns_deleteEntryDescription"
+msgstr "Please confirm that the entries shall be deleted."
+
+msgid "dns_addDomainButton"
+msgstr "Add domain"
+
+msgid "dns_deleteDomainButton"
+msgstr "Delete domain"
+
+msgid "dns_cancelDomainButton"
+msgstr "Cancel"
+
+msgid "dns_deleteEntryButton"
+msgstr "Delete entry"
+
+msgid "dns_cancelEntryButton"
+msgstr "Cancel"
+
+msgid "dns_addEntryButton"
+msgstr "Add entry"
+
+msgid "dns_saveEntryButton"
+msgstr "Save entry"
+
+msgid "dns_errorIntro"
+msgstr "Your request could not be executed. Please correct the following errors:"
+
+msgid "dnsm_missing_values"
+msgstr "Missing values."
+
+msgid "dnsm_domain_not_found"
+msgstr "Domain name failed to respond."
+
+msgid "dnsm_domain_exists"
+msgstr "Domain is already registered."
+
+msgid "dnsm_required_domain_id"
+msgstr "Domain ID is missing."
+
+msgid "dnsm_required_dns_type"
+msgstr "Please choose a DNS type."
+
+msgid "dnsm_invalid_subdomain"
+msgstr "Please enter a valid subdomain."
+
+msgid "dnsm_invalid_mx_record"
+msgstr "Target is invalid."
+
+msgid "dnsm_required_a_record"
+msgstr "Please enter a target for type A."
+
+msgid "dnsm_required_cname_record"
+msgstr "Please enter a target for type CNAME."
+
+msgid "dnsm_required_mx_record"
+msgstr "Please enter a target for type MX."
+
+msgid "dnsm_required_ns_record"
+msgstr "Please enter a target for type NS."
+
+msgid "dnsm_error"
+msgstr "Error"
+
+msgid "language_selection"
+msgstr "Language selection"
+
+msgid "locked_panel"
+msgstr "The panel is locked."
+
+msgid "yes"
+msgstr "Yes"
+
+msgid "no"
+msgstr "No"
+
+msgid "er_16230"
+msgstr "No contract selected."
+
+msgid "label_search_domain"
+msgstr "Enter domain:"
+
+msgid "ok"
+msgstr "OK"
+
+msgid "missing_gender"
+msgstr "Please select a gender."
+
+msgid "all"
+msgstr "All"
+
+msgid "select_account"
+msgstr "Select an account:"
+
+msgid "delete_user"
+msgstr "Delete customer data"
+
+msgid "confirm_backup_change_password_message"
+msgstr "Please confirm the password change."
+
+msgid "confirm_backup_change_password"
+msgstr "Change password"
+
+msgid "confirm_reboot"
+msgstr "Reboot server"
+
+msgid "confirm_reboot_message"
+msgstr "Are you sure you want to reboot your server?"
+
+msgid "recovery_confirm_message"
+msgstr "Please confirm the recovery mode."
+
+msgid "button_start_recovery"
+msgstr "Request Recovery"
+
+msgid "reversedns_confirm"
+msgstr "Set reverse DNS entry"
+
+msgid "reversedns_confirm_message"
+msgstr "Please confirm the following reverse DNS entry."
+
+msgid "new_entry"
+msgstr "New entry"
+
+msgid "info_useraccount"
+msgstr "The user name has to consist of at least 6 characters. If it is already in use, an error will be displayed. The password has to contain at least 8 characters and letters as well as digits."
+
+msgid "info_useraccount_new_user"
+msgstr "User data can be setup after the user has been saved."
+
+msgid "delete_user_message"
+msgstr "All assignments to contracts and logins for this data item {$customerInfo} will be deleted."
+
+msgid "new_customer_success"
+msgstr "The customer data are created."
+
+msgid "changed_customer_success"
+msgstr "The customer data are changed."
+
+msgid "deleted_customer_success"
+msgstr "The customer data are deleted."
+
+msgid "delete_login_success"
+msgstr "The account was deleted."
+
+msgid "delete_login_confirm"
+msgstr "Should the account be deleted?"
+
+msgid "no_imprint_found"
+msgstr "No data found"
+
+msgid "login_no_contracts_found"
+msgstr "You can not login with this user data. No contracts found for this user."
+
+msgid "ip_stat_1"
+msgstr "Main IP"
+
+msgid "ip_stat_2"
+msgstr "Additional IP"
+
+msgid "ip_stat_5"
+msgstr "IPMI-IP"
+
+msgid "ip_stat_6"
+msgstr "Network IP"
+
+msgid "server_not_installed"
+msgstr "This server is not installed."
+
+msgid "please_install_server_first"
+msgstr "This server is not installed. Please install the server with <q>Restore</q>."
+
+#~ msgid "warning_restore64bit"
+#~ msgstr ""
+#~ "Please note that 32bit operating systems support only up to 4GB of RAM. "
+#~ "If your server configuration includes more memory, we suggest using a "
+#~ "64bit (AMD64) installation."
+
