@@ -2465,235 +2465,235 @@ msgid "continue"
 msgstr "Dalje"
 
 msgid "description_text_1"
-msgstr "Here you may reset your server to its original status. Your restore will start immediately after you've confirmed the authorization code (will be sent by e-mail) and selected the operating system. <strong>Remember that all data will be lost.</strong><br /><br />Before restoring your server, you should remember to backup all important data. A restore is free."
+msgstr "Ovdje možete vratiti svoj server u izvorno stanje. Vraćanje sustava će započeti odmah nakon što potvrdite autorizacijski kôd (bit će poslan e-mailom) i odaberete operativni sustav. <strong>Zapamtite da će svi podaci biti trajno izgubljeni.</strong><br /><br />Prije vraćanja sustava u izvorno stanje, preporučamo izradu backupa. Vraćanje sustava u izvorno stanje je besplatno."
 
 msgid "description_text_1_lite"
-msgstr "Here you may reset your server to its original status. Your restore will start within 2 hours after you've confirmed the authorization code (will be sent by e-mail). <strong>Remember that all data will be lost.</strong><br /><br />Before restoring your server, you should remember to backup all important data. A restore is free."
+msgstr "Ovdje možete vratiti svoj server u izvorno stanje. Vraćanje sustava će započeti u roku od 2 sata nakon što potvrdite autorizacijski kôd (bit će poslan e-mailom). <strong>Zapamtite da će svi podaci biti trajno izgubljeni.</strong><br /><br />Prije vraćanja sustava u izvorno stanje, preporučamo izradu backupa. Vraćanje sustava u izvorno stanje je besplatno."
 
 msgid "auth_code"
-msgstr "Please enter your authorization code, which has been sent by e-mail:"
+msgstr "Molim upišite autorizacijski kôd, koji vam je poslan e-mailom:"
 
 msgid "button_restore"
-msgstr "Proceed to authorization code"
+msgstr "Nastavi prema autorizacijskom kôdu"
 
 msgid "start_restore"
-msgstr "Start Installation"
+msgstr "Započni instalaciju"
 
 msgid "continue_step2"
-msgstr "Proceed to selection of operating system"
+msgstr "Nastavi prema odabiru operativnog sustava"
 
 msgid "restore_active_text"
-msgstr "Server restore is already pending. You can cancel the server restore from this page."
+msgstr "Vraćanje servera u izvorno stanje je već zatraženo. Zahtjev možete otkazati na ovoj stranici."
 
 msgid "restore_pending_text"
-msgstr "Unconfirmed server restore is already pending."
+msgstr "Nepotvrđeno vraćanje servera u izvorno stanje je već zatraženo."
 
 msgid "restore_cancel"
-msgstr "Cancel server restore"
+msgstr "Otkaži vraćanje servera u izvorno stanje"
 
 msgid "restore_confirmed"
-msgstr "Server restore confirmed"
+msgstr "Vraćanje servera u izvorno stanje je potvrđeno"
 
 msgid "cancel_restore_text"
-msgstr "If you cancel the restore in the middle of the process, you might end with a non-functional operating system. Are you sure that you want to proceed?"
+msgstr "Ako otkažete vraćanje servera u izvorno stanje dok je proces u tijeku, vjerojatno ćete dobiti polu-funkcionalan operativni sustav. Jeste li sigurni da želite nastaviti?"
 
 msgid "label_selected_server"
-msgstr "Selected server:"
+msgstr "Odabrani server server:"
 
 msgid "label_admin_password"
-msgstr "Admin password:"
+msgstr "Admin lozinka:"
 
 msgid "page_title_Traffic"
 msgstr "PowerStats"
 
 msgid "title_index"
-msgstr "Bandwidth overview"
+msgstr "Pregled bandwidtha"
 
 msgid "title_ianalyze"
-msgstr "Analyze"
+msgstr "Analiziraj"
 
 msgid "title_export"
-msgstr "Export"
+msgstr "Izvoz"
 
 msgid "title_statistics"
-msgstr "Stats"
+msgstr "Statistika"
 
 msgid "link_traffic"
 msgstr "PowerStats"
 
 msgid "link_statistics"
-msgstr "Stats"
+msgstr "Statistika"
 
 msgid "all_ips"
-msgstr "All IPs"
+msgstr "Sve IP adrese"
 
 msgid "statistics_desc"
-msgstr "The following stats represent bandwidth on the specific day, time, and IP address. The stats are shown over a period of 30 days."
+msgstr "Sljedeće statistike predstavljaju potrošnju bandwidtha na određeni dan, vrijeme i IP adresu. Statistika obuhvaća razdoblje od 30 dana."
 
 msgid "statistics_desc_lite"
-msgstr "Below you can see the bandwidth stats of your server resulting from each day. Here you shall find a 30 day history of your bandwidth usage."
+msgstr "Ispod možete vidjeti statistiku bandwidtha vašeg servera po danima. Ovdje ćete pronaći 30-dnevnu povijest potrošnje bandwidtha."
 
 msgid "weekly_graphics"
-msgstr "Weekly"
+msgstr "Tjedan"
 
 msgid "hourly_graphics"
-msgstr "Hourly"
+msgstr "Sat"
 
 msgid "ip_graphics"
-msgstr "IP Stats"
+msgstr "IP statistika"
 
 msgid "billing_period_desc"
-msgstr "Current billing period:"
+msgstr "Trenutno razdoblje naplate:"
 
 msgid "premium_stats_only"
-msgstr "Available with PremiumStats only"
+msgstr "Dostupno samo uz PremiumStats"
 
 msgid "period"
-msgstr "Time period"
+msgstr "Vremensko razdoblje"
 
 msgid "from"
-msgstr "from"
+msgstr "od"
 
 msgid "to"
-msgstr "to"
+msgstr "do"
 
 msgid "ip_addresses"
-msgstr "IP addresses"
+msgstr "IP adrese"
 
 msgid "traffic"
 msgstr "Bandwidth"
 
 msgid "free_traffic"
-msgstr "Free"
+msgstr "Besplatno"
 
 msgid "overfree"
-msgstr "Exceeded Bandwidth"
+msgstr "Prekoračeni bandwidth"
 
 msgid "cost"
-msgstr "Cost"
+msgstr "Trošak"
 
 msgid "start"
-msgstr "Start"
+msgstr "Početak"
 
 msgid "end"
-msgstr "End"
+msgstr "Kraj"
 
 msgid "date"
-msgstr "Date"
+msgstr "Datum"
 
 msgid "downstream"
-msgstr "OUT"
+msgstr "ULAZ"
 
 msgid "upstream"
-msgstr "IN"
+msgstr "IZLAZ"
 
 msgid "total"
-msgstr "Total"
+msgstr "Ukupno"
 
 msgid "more"
-msgstr "Details"
+msgstr "Detalji"
 
 msgid "button_back"
-msgstr "Back"
+msgstr "Natrag"
 
 msgid "one_month"
-msgstr "(one month)"
+msgstr "(1 mjesec)"
 
 msgid "page_title_Reboot"
-msgstr "Reboot"
+msgstr "Ponovno pokretanje"
 
 msgid "page_title_Reboot_extra"
-msgstr "Reboot"
+msgstr "Ponovno pokretanje"
 
 msgid "header__reboot"
-msgstr "Request Reboot "
+msgstr "Zatraži ponovno pokretanje "
 
 msgid "header_reboot_lite"
-msgstr "Request Reboot"
+msgstr "Zatraži ponovno pokretanje"
 
 msgid "button_cancel_reboot"
-msgstr "Cancel Reboot"
+msgstr "Otkaži ponovno pokretanje"
 
 msgid "description_reboot_1"
-msgstr "The {$page_title} offers you two simple ways to restart your server in the customer interface: Software and Hardware Reboot.<br /><br />For a Software Reboot - provided that the server still reacts -  the command ctrl-alt-del will be given to the server via the keyboard interface. This is the easiest way to restart your server because the operating system will stop all running services normally. <br /><br />If your server does not react to a Software Reboot, the option of a Hardware Reboot remains. The Hardware Reboot restarts the computer, whether or not the operating system still reacts, as if someone had pressed the reset button. <br /><br />With {$page_title}, both commands will be given to your server within 10 seconds, so that it reboots immediately and works again to your full satisfaction."
+msgstr "{$page_title} vam nudi dva jednostavna načina za ponovno pokretanje servera iz korisničkog sučelja: softversko i hardversko ponovno pokretanje.<br /><br />Pomoću softverskog ponovnog pokretanja - uz uvjet da je server responsivan -  serveru će biti proslijeđena naredba ctrl-alt-del kroz njegovo sučelje tipkovnice. Ovo je najjednostavniji način ponovnog pokretanja, jer će operativni sustav sâm zaustaviti pokrenute procese. <br /><br />Ako vaš server ne reagira na softversko ponovno pokretanje, možete upotrijebiti hardversko ponovno pokretanje. Potonji način će ponovno pokrenuti vaš server neovisno je li operativni sustav responsivan, te ima učinak jednak pritisku na tipku reset. <br /><br />Obje naredbe će serveru biti proslijeđene u roku od 10 sekundi, kako bi se on ponovno pokrenuo u što kraćem roku, te vam bio u potpunosti na raspolaganju."
 
 msgid "description_reboot_1_lite"
-msgstr "The {$page_title} offers you two simple ways to restart your server in the customer interface: Software and Hardware Reboot.<br /><br />For a Software Reboot - provided that the server still reacts -  the command ctrl-alt-del will be given to the server via the keyboard interface. This is the easiest way to restart your server because the operating system will stop all running services normally. <br /><br />If your server does not react to a Software Reboot, the option of a Hardware Reboot remains. The Hardware Reboot restarts the computer, whether or not the operating system still reacts, as if someone had pressed the reset button. <br /><br />With {$page_title}, both commands will be given to your server within 15 minutes, so that it works again to your full satisfaction."
+msgstr "{$page_title} vam nudi dva jednostavna načina za ponovno pokretanje servera iz korisničkog sučelja: softversko i hardversko ponovno pokretanje.<br /><br />Pomoću softverskog ponovnog pokretanja - uz uvjet da je server responsivan -  serveru će biti proslijeđena naredba ctrl-alt-del kroz njegovo sučelje tipkovnice. Ovo je najjednostavniji način ponovnog pokretanja, jer će operativni sustav sâm zaustaviti pokrenute procese. <br /><br />Ako vaš server ne reagira na softversko ponovno pokretanje, možete upotrijebiti hardversko ponovno pokretanje. Potonji način će ponovno pokrenuti vaš server neovisno je li operativni sustav responsivan, te ima učinak jednak pritisku na tipku reset. <br /><br />Obje naredbe će serveru biti proslijeđene u roku od 15 minuta, kako bi vam on ponovno bio u potpunosti na raspolaganju."
 
 msgid "description_reboot_1_manual"
-msgstr "The {$page_title} offers you a simple way to restart your server through the customer interface. Please be patient until the Reboot has been executed."
+msgstr "{$page_title} vam nudi dva jednostavna načina za ponovno pokretanje servera iz korisničkog sučelja. Molimo vas za strpljenje dok se ponovno pokretanje ne izvrši."
 
 msgid "attention"
-msgstr "Please note! This functionality can cause unavailability of your server and data loss. We do not provide any guarantee."
+msgstr "Važno! Ova funkcionalnost može izazvati nedostupnost vašeg servera i gubitak podataka."
 
 msgid "reboot_15min_text"
-msgstr "{$page_title} within 15 minutes"
+msgstr "{$page_title} unutar 15 minuta"
 
 msgid "reboot_premium_text"
-msgstr "{$page_title} <br />at once"
+msgstr "{$page_title} <br />odmah"
 
 msgid "server_name"
-msgstr "Server name"
+msgstr "Naziv servera"
 
 msgid "method"
-msgstr "Reboot method"
+msgstr "Način ponovnog pokretanja"
 
 msgid "label_method"
-msgstr "Reboot method:"
+msgstr "Način ponovnog pokretanja:"
 
 msgid "method_HWR"
-msgstr "Hardware Reboot (HWR)"
+msgstr "Hardversko ponovno pokretanje (HWR)"
 
 msgid "method_SWR"
-msgstr "Software Reboot (SWR)"
+msgstr "Softversko ponovno pokretanje (SWR)"
 
 msgid "method_manual"
-msgstr "Manual Reboot"
+msgstr "Ručno ponovno pokretanje"
 
 msgid "timing"
 msgstr "Timing"
 
 msgid "timing_delayed"
-msgstr "Delayed (within 30 minutes), free"
+msgstr "Odgođeno (unutar 30 minuta), besplatno"
 
 msgid "warning_message"
-msgstr "WARNING! Choosing this option could result in data loss on your server."
+msgstr "UPOZORENJE! Odabir ove opcije može rezultirati gubitkom podataka na vašem serveru."
 
 msgid "button_reboot"
-msgstr "Reboot server"
+msgstr "Ponovno pokreni server"
 
 msgid "hard_reset"
-msgstr "Hard Reset"
+msgstr "Hardversko ponovno pokretanje"
 
 msgid "soft_reset"
-msgstr "Soft Reset"
+msgstr "Softversko ponovno pokretanje"
 
 msgid "reboot_confirm_header"
-msgstr "Confirmation"
+msgstr "Potvrda"
 
 msgid "reboot_confirm_message"
-msgstr "Are you sure you want to reboot your server?"
+msgstr "Jeste li sigurni da želite ponovno pokrenuti svoj server?"
 
 msgid "reboot_does_not_work"
-msgstr "The server can not be rebooted. Please contact our Support."
+msgstr "Server se ne može ponovno pokrenuti. Molimo vas da kontaktirate našu podršku."
 
 msgid "reboot_help"
-msgstr "Problems with SoftReboot?"
+msgstr "Problemi sa softverskim ponovnim pokretanjem?"
 
 msgid "reboot_working_webresetter"
-msgstr "<strong>Your server is rebooted now.</strong><br /><br />If your server is not available again after 30 minutes, you can cancel the Reboot and execute it again."
+msgstr "<strong>Vaš server je sada ponovno pokrenut.</strong><br /><br />Ako server ne postane dostupan u roku od 30 minuta, možete otkazati zahtjev ponovnog pokretanja i ponovno ga izvršiti."
 
 msgid "reboot_working_manual"
-msgstr "<strong>There is already a request for a manual reboot of your server.</strong><br /><br />Please be patient."
+msgstr "<strong>Već postoji zahtjev ručnog ponovnog pokretanja servera.</strong><br /><br />Molimo vas za strpljenje."
 
 msgid "last_reboot"
-msgstr "Last reboot:"
+msgstr "Posljednje ponovno pokretanje:"
 
 msgid "info_title_1"
-msgstr "Problems with Software Reboot?"
+msgstr "Problemi sa softverskim ponovnim pokretanjem?"
 
 msgid "info_content_1"
-msgstr "<p>In case the Software Reboot should fail, which might happen with a few motherboards or operating system configurations, you still have the possibility to change the boot kernel option as follows:</p> <p>Open the file <code>/boot/grub/menu.lst</code> in an editor <code>#&gt; mcedit /boot/grub/menu.lst</code> and add to the line, which starts with <code>&quot; kernel..&quot;</code>, the following option at the end: <code>acpi=off</code></p> <p>The result should look like:</p> <p><code>| title test123.{#domain_name#} <br />| kernel (hd0,0)/vmlinuz root=/dev/hda3 <br />vga=0x303 <br />load_ramdisk=1 <br />desktop splash=silent <br />showopts acpi=off | <br />initrd (hd0,0)/initrd</code></p> <p>After a restart, the Software Reboot works just like the Hardware Reboot over your interface. This option does not have a negative effect on your server's performance and can be used on all server systems without any risk.</p>"
+msgstr "<p>U slučaju da softversko ponovno pokretanje ne uspije, što je moguće kod nekoliko matičnih ploča i konfiguracija operativnog sustava, uvijek imate mogućnost promjene boot kernel opcije na sljedeći način:</p> <p>Otvorite datoteku <code>/boot/grub/menu.lst</code> u uređivaču teksta <code>#&gt; mcedit /boot/grub/menu.lst</code> i dodajte redak koji započinje sa <code>&quot; kernel..&quot;</code>, te završava s opcijom: <code>acpi=off</code></p> <p>Konačni rezultat bi trebao izgledati kao:</p> <p><code>| title test123.{#domain_name#} <br />| kernel (hd0,0)/vmlinuz root=/dev/hda3 <br />vga=0x303 <br />load_ramdisk=1 <br />desktop splash=silent <br />showopts acpi=off | <br />initrd (hd0,0)/initrd</code></p> <p>Nakon ponovnog pokretanja, softversko ponovno pokretanje servera iz korisničkog sučelja će uredno funkcionirati. Ova opcija nema negativan efekt na performanse vašeg servera, te se može koristiti na svim sustavima bez rizika.</p>"
 
 msgid "page_title_Recovery"
 msgstr "Recovery"
@@ -2702,67 +2702,67 @@ msgid "page_title_Recovery_extra"
 msgstr "Recovery"
 
 msgid "header_recovery"
-msgstr "Request Recovery"
+msgstr "Zatražite recovery"
 
 msgid "header_recovery_lite"
-msgstr "Request Recovery"
+msgstr "Zatražite recovery"
 
 msgid "brief_desc"
-msgstr "Short description"
+msgstr "Kratak opis"
 
 msgid "brief_desc_text"
-msgstr "The Recovery System enables the customers to access their servers in case of a system crash or a faulty configuration, and to repair it. When executing the Recovery System, a small Ubuntu Linux system is started on a Linux server, or a small Windows system on a Windows server, respectively, without using the internal hard disk of the server.<br />The system contains the most important tools and programs to get your server running again."
+msgstr "Recovery sustav omogućava korisnicima pristup serverima u slučaju pada ili neispravne konfiguracije sustava, te popravak istog. Kod pokretanja Recovery sustava, na serveru se pokreće mali Ubuntu Linux, odnosno mali Windows sustav, bez korištenja čvrstog diska na serveru.<br />Taj sustav sadrži najvažnije programe i alate za popravak oštećenog operativnog sustava."
 
 msgid "what_can_do"
-msgstr "Which jobs can I carry out with the help of the recovery system?"
+msgstr "Što mogu obaviti pomoću recovery sustava?"
 
 msgid "what_can_do_text"
-msgstr "<ul> <li>Customization of configuration data</li> <li>New partitioning of the hard disk</li> <li>Resetting of passwords</li> <li>Repairing of file system errors</li> <li>Execution of a manual file system check in case of a failed reboot</li> <li>Installation of other Linux distributions</li> </ul>"
+msgstr "<ul> <li>Prilagodbu konfiguracije</li> <li>Particioniranje diska</li> <li>Promjenu lozinke</li> <li>Popravak datotečnog sustava</li> <li>Izvršavanje ručne provjere datotečnog sustava u slučaju neuspjelog ponovnog pokretanja servera</li> <li>Instalaciju ostalih Linux distribucija</li> </ul>"
 
 msgid "button_execute"
-msgstr "Execute within the next two hours"
+msgstr "Izvrši u roku od iduća 2 sata"
 
 msgid "button_execute_premium"
-msgstr "Execute"
+msgstr "Izvrši"
 
 msgid "password_given"
-msgstr "Password has been given"
+msgstr "Lozinka je dana"
 
 msgid "how_to_login"
-msgstr "Access to the recovery system"
+msgstr "Pristupite recovery sustavu"
 
 msgid "how_to_login_text"
-msgstr "After you've requested the recovery, you will receive an e-mail to inform you that your server was booted into recovery mode. You can now log into your server with SSH and the known IP using the user name root and the password you choose on the next page. Please note that your normal root password is not valid in recovery mode."
+msgstr "Nakon što zatražite recovery, dobit ćete obavijest e-mailom da se na servere učitao recovery način rada, stoga ćete se moći prijaviti na server koristeći SSH i poznatu IP adresu, zajedno s korisničkim imenom root i lozinkom koju ćete odabrati na idućoj stranici. Napomena: uobičajena lozinka korisnika root nije važeća u recovery načinu rada."
 
 msgid "first_steps"
-msgstr "First steps in the Recovery system"
+msgstr "Prvi koraci u recovery sustavu"
 
 msgid "first_steps_text"
-msgstr "Please note that the recovery system is only aimed at experienced Linux users and in order to avoid serious damage to the server should only be used by them. As soon as you log into the recovery system, you will receive a short introduction to the system."
+msgstr "Napomena: recovery sustav je namijenjen iskusnim Linux korisnicima. Kako bi se izbjegla ozbiljna oštećenja servera, ovaj bi sustav trebali koristiti samo oni. Odmah nakon prijave u recovery sustav, dočekat će vas kratak uvod u sustav."
 
 msgid "legend_recovery"
-msgstr "Required information:"
+msgstr "Obavezne informacije:"
 
 msgid "info_root_password"
-msgstr "Set root password for Recovery Mode:"
+msgstr "Postavite root lozinku za recovery način rada:"
 
 msgid "info_recovery_email"
-msgstr "E-mail address for the confirmation of the executed Recovery System:"
+msgstr "E-mail adresa za potvrdu izvršenja recovery sustava:"
 
 msgid "recovery_active_text"
-msgstr "The recovery mode is active. You can cancel the Recovery System below."
+msgstr "Recovery način rada je aktivan. Recovery sustav možete otkazati ispod."
 
 msgid "recovery_waiting_text"
-msgstr "The recovery mode is pending. You can cancel the Recovery System on this page."
+msgstr "Recovery način rada je na čekanju. Recovery sustav možete otkazati na ovoj stranici."
 
 msgid "recovery_waiting_for_active_text"
-msgstr "The recovery mode is pending. You can cancel the Recovery System on this page."
+msgstr "Recovery način rada je na čekanju. Recovery sustav možete otkazati na ovoj stranici."
 
 msgid "recovery_cancel"
-msgstr "Cancel Recovery"
+msgstr "Otkaži recovery"
 
 msgid "cancel_recovery_text"
-msgstr "Are you sure that you want to cancel the recovery mode?"
+msgstr "Jeste li sigurni da želite otkazati recovery način rada."
 
 msgid "page_title_BackupFtp"
 msgstr "Backup"
@@ -2771,196 +2771,196 @@ msgid "page_title_BackupFtp_extra"
 msgstr "Backup"
 
 msgid "legend_change_password"
-msgstr "Change password"
+msgstr "Promjena lozinke"
 
 msgid "legend_add_account"
-msgstr "Add account"
+msgstr "Dodavanje računa"
 
 msgid "header_ftp"
-msgstr "FTP Backup"
+msgstr "FTP backup"
 
 msgid "description_ftp_1"
-msgstr "You have the possibility to save up to {$iMinAmount} GB of data on an FTP server. Please note: the data on this FTP server is not additionally backed up. We are not responsible for any possible data losses. Remember that you can only login to the FTP server from your own server."
+msgstr "Imate mogućnost spremanja do {$iMinAmount} GB podataka na FTP serveru. Napomena: podaci na FTP serveru se ne backupiraju. Nismo odgovorni u slučaju bilo kakvih gubitaka podataka. Na FTP server se možete prijaviti samo s vlastitog servera."
 
 msgid "backup_server"
 msgstr "Backup server"
 
 msgid "login"
-msgstr "Login"
+msgstr "Prijava"
 
 msgid "hint"
-msgstr "Information"
+msgstr "Informacije"
 
 msgid "hint_text"
-msgstr "In the field below, you can change your password anytime.<br />This password must consist of 6 characters minimum. It must also contain alpha-numeric characters only."
+msgstr "U polju ispod možete promijeniti svoju lozinku u bilo koje vrijeme.<br />Lozinka se mora sastojati od najmanje 6, isključivo alfanumeričkih, znakova."
 
 msgid "new_password"
-msgstr "New password"
+msgstr "Nova lozinka"
 
 msgid "new_quotasize"
-msgstr "New quota size, GB"
+msgstr "Veličina nove kvote u GB"
 
 msgid "hint_text_2"
 msgstr " "
 
 msgid "hint_no_backup"
-msgstr "You have no backup account. You may create a new one here."
+msgstr "Nemate nijedan backup račun. Novi račun možete otvoriti ovdje."
 
 msgid "hint_no_backup_acc"
-msgstr "Your account doesn't allow you to have backup storage."
+msgstr "Račun vam ne dopušta prostor za spremanje backupa."
 
 msgid "space"
-msgstr "Space in GB"
+msgstr "Prostor u GB"
 
 msgid "or"
-msgstr "or"
+msgstr "ili"
 
 msgid "other_size"
-msgstr "Other"
+msgstr "Ostalo"
 
 msgid "delete_backup"
-msgstr "Delete this backup account"
+msgstr "Obriši ovaj backup račun"
 
 msgid "delete_backup_ask"
-msgstr "Are you sure that you want to delete this backup account?"
+msgstr "Jeste li sigurni da želite obrisati ovaj backup račun?"
 
 msgid "b_save_password"
-msgstr "Save Password"
+msgstr "Spremi lozinku"
 
 msgid "b_save_quotasize"
-msgstr "Save Backup Space"
+msgstr "Spremi backup prostor"
 
 msgid "page_title_AllocateIps"
-msgstr "Manage IPs"
+msgstr "Upravljanje IP adresama"
 
 msgid "header_ips_1"
-msgstr "IP Allocation"
+msgstr "Alokacija IP adresa"
 
 msgid "header_ips_2"
-msgstr "IP Cancellation"
+msgstr "Otkazivanje IP adresa"
 
 msgid "description_ips_1"
-msgstr "IP Administration"
+msgstr "Administracija IP adresa"
 
 msgid "label_add_ip"
-msgstr "Add IP"
+msgstr "Dodaj IP"
 
 msgid "description_ips_2"
-msgstr "You can order new IP addresses or cancel existing IPs here. It is not possible to cancel IP addresses, which you received with the server itself."
+msgstr "Ovdje možete naručiti nove i otkazati postojeće IP adrese. Otkazivanje IP adresa koje ste dobili uz server nije moguće."
 
 msgid "footer_text_1"
-msgstr "You can order up to {$max_amount} additional IP addresses."
+msgstr "Možete naručiti do {$max_amount} dodatnih IP adresa."
 
 msgid "footer_text_2"
-msgstr "{$free_amount} are free of charge."
+msgstr "{$free_amount} adresa je besplatno."
 
 msgid "footer_text_3"
-msgstr "An additional IP is charged for with a handling fee of {$sPrice} EUR/month."
+msgstr "Dodatna IP adresa se naplaćuje po cijeni od {$sPrice} EUR/mjesečno."
 
 msgid "footer_text_4"
-msgstr "If you require more IP adresses, you must justify per ARIN guidelines. Please contact our Sales Department for further information."
+msgstr "Ako želite naručiti veći broj IP adresa, morat ćete poslati obrazloženje prema ARIN-ovim smjernicama. Molimo vas da za detalje kontaktirate naš odjel prodaje."
 
 msgid "button_order_ip"
-msgstr "Order new IP address"
+msgstr "Naruči novu IP adresu"
 
 msgid "order_ip_question"
-msgstr "Are you sure you want to order a new IP address for {$sPrice} per month?"
+msgstr "Jeste li sigurni da želite naručiti novu IP adresu po cijeni od {$sPrice} mjesečno?"
 
 msgid "order_ip_question_no_price"
-msgstr "Are you sure that you would like to order an extra IP address?"
+msgstr "Jeste li sigurni da želite naručiti dodatnu IP adresu?"
 
 msgid "order_ip_success"
-msgstr "We have received your order. You will now receive an e-mail with your new IP address. In case of any problems with your ip-address configuration please contact our technical support."
+msgstr "Vašu smo narudžbu upravo zaprimili. Nova IP adresa će vam biti poslana e-mailom. U slučaju problema kod konfiguracije nove IP adrese, slobodno se obratite našoj podršci."
 
 msgid "label_delete_ip"
-msgstr "Delete IP"
+msgstr "Obriši IP"
 
 msgid "delete_ip_question"
-msgstr "Are you sure you want to cancel the IP address {$sIp}?"
+msgstr "Jeste li sigurni da želite otkazati IP adresu {$sIp}?"
 
 msgid "delete_ip_success"
-msgstr "You have now cancelled the IP address and will soon receive an e-mail with additional information. Please remove this IP address from your server within the next 72 hours. Should you have problems removing the IP, please contact our technical support."
+msgstr "Upravo ste otkazali IP adresu, te ćete ubrzo dobiti e-mail s dodatnim informacijama. Molimo vas da ovu IP adresu uklonite sa servera u roku od 72 sata. U slučaju problema kod uklanjanja IP adrese, slobodno se obratite našoj podršci."
 
 msgid "cancel_ip"
-msgstr "Cancel"
+msgstr "Otkaži"
 
 msgid "ip_type_0"
-msgstr "Main IP"
+msgstr "Glavni IP"
 
 msgid "ip_type_1"
-msgstr "Main IP"
+msgstr "Glavni IP"
 
 msgid "ip_type_2"
-msgstr "Additional IP address"
+msgstr "Dodatna IP adresa"
 
 msgid "th_ip"
 msgstr "IP"
 
 msgid "th_option"
-msgstr "Option"
+msgstr "Opcija"
 
 msgid "page_title_ReverseDns"
-msgstr "Reverse DNS"
+msgstr "Reverzni DNS"
 
 msgid "page_title_ReverseDns_extra"
-msgstr "Reverse DNS"
+msgstr "Reverzni DNS"
 
 msgid "header_reversedns"
-msgstr "Reverse DNS"
+msgstr "Reverzni DNS"
 
 msgid "header_reversedns_lite"
-msgstr "Reverse DNS"
+msgstr "Reverzni DNS"
 
 msgid "reverse_changed"
-msgstr "The reverse entry has been changed."
+msgstr "Reverzni zapis je promijenjen."
 
 msgid "btn_change"
-msgstr "Change"
+msgstr "Promijeni"
 
 msgid "reverse_for"
-msgstr "Reverse entry for"
+msgstr "Reverzni zapis za"
 
 msgid "backwards"
-msgstr "Back"
+msgstr "Natrag"
 
 msgid "forwards"
-msgstr "Forward"
+msgstr "Naprijed"
 
 msgid "page"
-msgstr "Page"
+msgstr "Stranica"
 
 msgid "delete_reverse"
-msgstr "Delete reverse entry"
+msgstr "Obriši reverzni zapis"
 
 msgid "description_reversedns_1"
-msgstr "You can freely choose the reverse entry."
+msgstr "Možete obaviti slobodan odabir reverznog zapisa."
 
 msgid "description_reversedns_1_lite"
-msgstr "With PremiumReverse you can freely select the reverse entry."
+msgstr "Uz PremiumReverse imate slobodan odabir reverznog zapisa."
 
 msgid "description_reversedns_2"
-msgstr "Please note that spaces and special characters are not allowed. Make sure that the reverse entry refers to a name which already exists. Leave the field empty in order to receive the standard entry on basic server IPs or to remove an existing reverse entry on additional IPs.<br /><br />If you are using a class C net, the standard entry on basic server IPs may not be accepted."
+msgstr "Napomena: razmaci i posebni znaci nisu dopušteni. Svakako provjerite da se reverzni zapis odnosi na ime koje već postoji. Da biste dobili uobičajen zapis na temelju glavne IP adrese servera ili obrisali postojeći reverzni zapis na dodatnoj IP adresi, polje ostavite prazno.<br /><br />Ako koristite C klasu, uobičajeni zapis na temelju IP adrese servera neće biti prihvaćen."
 
 msgid "page_title_Dns"
-msgstr "DNS Service"
+msgstr "DNS servis"
 
 msgid "page_title_Dns_extra"
-msgstr "DNS Service"
+msgstr "DNS servis"
 
 msgid "dns_headline"
-msgstr "DNS Management"
+msgstr "Upravljanje DNS-om"
 
 msgid "dns_domainOverviewLink"
-msgstr "Domain overview"
+msgstr "Pregled domena"
 
 msgid "dns_addDomainLink"
-msgstr "Add domain"
+msgstr "Dodaj domenu"
 
 msgid "dns_domainTableHeader"
-msgstr "Domain"
+msgstr "Domena"
 
 msgid "dns_optionTableHeader"
-msgstr "Option"
+msgstr "Opcija"
 
 msgid "dns_targetIpTableHeader"
 msgstr "IP"
@@ -2969,238 +2969,238 @@ msgid "dns_entryDescriptionTableHeader"
 msgstr "&nbsp;"
 
 msgid "dns_subDomainTableHeader"
-msgstr "Subdomain"
+msgstr "Poddomena"
 
 msgid "dns_typeTableHeader"
-msgstr "Type"
+msgstr "Vrsta"
 
 msgid "dns_prioTableHeader"
-msgstr "Prio."
+msgstr "Prior."
 
 msgid "dns_prioTableTitle"
-msgstr "Prio"
+msgstr "Prior."
 
 msgid "dns_targetTableHeader"
-msgstr "Target"
+msgstr "Cilj"
 
 msgid "dns_viewTableOption"
-msgstr "manage"
+msgstr "upravljanje"
 
 msgid "dns_deleteTableOption"
-msgstr "delete"
+msgstr "obriši"
 
 msgid "dns_pendingDeleteTableOption"
-msgstr "pending delete *"
+msgstr "čeka brisanje *"
 
 msgid "dns_editTableOption"
-msgstr "edit"
+msgstr "uredi"
 
 msgid "dns_domainList"
-msgstr "Domain overview"
+msgstr "Pregled domena"
 
 msgid "dns_domainListDescription"
-msgstr "Here you can see a list of your domains."
+msgstr "Ovdje možete vidjeti popis vaših domena."
 
 msgid "dns_noDomains"
-msgstr "You have no domain entries on our nameservers."
+msgstr "Na našim nameserverima nemate nijednu domenu."
 
 msgid "dns_mainAddress"
-msgstr "Main IP"
+msgstr "Glavni IP"
 
 msgid "dns_addDomain"
-msgstr "Add domain"
+msgstr "Dodaj domenu"
 
 msgid "dns_addDomainDescription"
-msgstr "Please fill out the fields and submit the form to add a new domain."
+msgstr "Da biste dodali novu domenu, molimo vas da ispunite polja i pošaljite podatke."
 
 msgid "dns_deleteDomain"
-msgstr "Delete domain"
+msgstr "Obriši domenu"
 
 msgid "dns_deleteDomainDescription"
-msgstr "Please confirm that you want to delete this domain."
+msgstr "Molim potvrdite da želite obrisati ovu domenu."
 
 msgid "dns_pendingDeleteInfo"
-msgstr "* this domain is marked for deletion and will be deleted from the name server soon."
+msgstr "* ova domena je označena za brisanje, te će ubrzo biti obrisana iz našeg nameservera."
 
 msgid "dns_listEntries"
-msgstr "Domain entries for domain"
+msgstr "Domenski zapisi za domenu"
 
 msgid "dns_listEntriesDescription"
-msgstr "This is a list of the entries for the selected domain. Changes in this settings can cause problems with the domain's functionality."
+msgstr "Ovo je popis zapisa za odabranu domenu. Promjene ovih postavki mogu uzrokovati probleme s funkcionalnosti domene."
 
 msgid "dns_deleteEntry"
-msgstr "Delete entry"
+msgstr "Obriši zapis"
 
 msgid "dns_deleteEntryDescription"
-msgstr "Please confirm that the entries shall be deleted."
+msgstr "Molim potvrdite da zapisi trebaju biti obrisani."
 
 msgid "dns_addDomainButton"
-msgstr "Add domain"
+msgstr "Dodaj domenu"
 
 msgid "dns_deleteDomainButton"
-msgstr "Delete domain"
+msgstr "Obriši domenu"
 
 msgid "dns_cancelDomainButton"
-msgstr "Cancel"
+msgstr "Otkaži"
 
 msgid "dns_deleteEntryButton"
-msgstr "Delete entry"
+msgstr "Obriši zapis"
 
 msgid "dns_cancelEntryButton"
-msgstr "Cancel"
+msgstr "Otkaži"
 
 msgid "dns_addEntryButton"
-msgstr "Add entry"
+msgstr "Dodaj zapis"
 
 msgid "dns_saveEntryButton"
-msgstr "Save entry"
+msgstr "Spremi zapis"
 
 msgid "dns_errorIntro"
-msgstr "Your request could not be executed. Please correct the following errors:"
+msgstr "Vaš zahtjev nije mogao biti izvršen. Molim ispravite sljedeće greške:"
 
 msgid "dnsm_missing_values"
-msgstr "Missing values."
+msgstr "Nedostajuće vrijednosti."
 
 msgid "dnsm_domain_not_found"
-msgstr "Domain name failed to respond."
+msgstr "Domena nije uspjela odgovoriti."
 
 msgid "dnsm_domain_exists"
-msgstr "Domain is already registered."
+msgstr "Domena je već registrirana."
 
 msgid "dnsm_required_domain_id"
-msgstr "Domain ID is missing."
+msgstr "Nedostaje ID domene."
 
 msgid "dnsm_required_dns_type"
-msgstr "Please choose a DNS type."
+msgstr "Molim provjerite vrstu DNS-a."
 
 msgid "dnsm_invalid_subdomain"
-msgstr "Please enter a valid subdomain."
+msgstr "Molim upišite ispravnu poddomenu."
 
 msgid "dnsm_invalid_mx_record"
-msgstr "Target is invalid."
+msgstr "Neispravan cilj."
 
 msgid "dnsm_required_a_record"
-msgstr "Please enter a target for type A."
+msgstr "Molim upišite cilj A zapisa."
 
 msgid "dnsm_required_cname_record"
-msgstr "Please enter a target for type CNAME."
+msgstr "Molim upišite cilj CNAME zapisa.."
 
 msgid "dnsm_required_mx_record"
-msgstr "Please enter a target for type MX."
+msgstr "Molim upišite cilj MX zapisa."
 
 msgid "dnsm_required_ns_record"
-msgstr "Please enter a target for type NS."
+msgstr "Molim upišite cilj NS zapisa."
 
 msgid "dnsm_error"
-msgstr "Error"
+msgstr "Greška"
 
 msgid "language_selection"
-msgstr "Language selection"
+msgstr "Odabir jezika"
 
 msgid "locked_panel"
-msgstr "The panel is locked."
+msgstr "Panel je zaključan."
 
 msgid "yes"
-msgstr "Yes"
+msgstr "Da"
 
 msgid "no"
-msgstr "No"
+msgstr "Ne"
 
 msgid "er_16230"
-msgstr "No contract selected."
+msgstr "Nije odabran ugovor."
 
 msgid "label_search_domain"
-msgstr "Enter domain:"
+msgstr "Upišite domenu:"
 
 msgid "ok"
-msgstr "OK"
+msgstr "U redu"
 
 msgid "missing_gender"
-msgstr "Please select a gender."
+msgstr "Molim odaberite spol."
 
 msgid "all"
-msgstr "All"
+msgstr "Sve"
 
 msgid "select_account"
-msgstr "Select an account:"
+msgstr "Odaberite račun:"
 
 msgid "delete_user"
-msgstr "Delete customer data"
+msgstr "Obriši podatke o klijentu"
 
 msgid "confirm_backup_change_password_message"
-msgstr "Please confirm the password change."
+msgstr "Molim potvrdite promjenu lozinke."
 
 msgid "confirm_backup_change_password"
-msgstr "Change password"
+msgstr "Promijeni lozinku"
 
 msgid "confirm_reboot"
-msgstr "Reboot server"
+msgstr "Ponovno pokreni server"
 
 msgid "confirm_reboot_message"
-msgstr "Are you sure you want to reboot your server?"
+msgstr "Jeste li sigurni da želite ponovno pokrenuti server?"
 
 msgid "recovery_confirm_message"
-msgstr "Please confirm the recovery mode."
+msgstr "Molim potvrdite recovery način rada."
 
 msgid "button_start_recovery"
-msgstr "Request Recovery"
+msgstr "Zatraži recovery"
 
 msgid "reversedns_confirm"
-msgstr "Set reverse DNS entry"
+msgstr "Postavi reverzni DNS zapis"
 
 msgid "reversedns_confirm_message"
-msgstr "Please confirm the following reverse DNS entry."
+msgstr "Molim potvrdite sljedeći reverzni DNS zapis."
 
 msgid "new_entry"
-msgstr "New entry"
+msgstr "Novi zapis"
 
 msgid "info_useraccount"
-msgstr "The user name has to consist of at least 6 characters. If it is already in use, an error will be displayed. The password has to contain at least 8 characters and letters as well as digits."
+msgstr "Korisničko ime mora sadržavati najmanje 6 znakova. Ako je već u upotrebi, prikazat će se greška. Lozinka mora sadržavati najmanje 8 znakova, kao i slova i brojke."
 
 msgid "info_useraccount_new_user"
-msgstr "User data can be setup after the user has been saved."
+msgstr "Korisnički podaci se mogu spremiti nakon spremanja korisnika."
 
 msgid "delete_user_message"
-msgstr "All assignments to contracts and logins for this data item {$customerInfo} will be deleted."
+msgstr "Sve ugovorne obveze i pristupni podaci za stavku {$customerInfo} će biti obrisani."
 
 msgid "new_customer_success"
-msgstr "The customer data are created."
+msgstr "Korisnički podaci su stvoreni."
 
 msgid "changed_customer_success"
-msgstr "The customer data are changed."
+msgstr "Korisnički podaci su spremljeni."
 
 msgid "deleted_customer_success"
-msgstr "The customer data are deleted."
+msgstr "Korisnički podaci su obrisani."
 
 msgid "delete_login_success"
-msgstr "The account was deleted."
+msgstr "Račun je obrisan."
 
 msgid "delete_login_confirm"
-msgstr "Should the account be deleted?"
+msgstr "Treba li se račun obrisati?"
 
 msgid "no_imprint_found"
-msgstr "No data found"
+msgstr "Nisu pronađeni podaci"
 
 msgid "login_no_contracts_found"
-msgstr "You can not login with this user data. No contracts found for this user."
+msgstr "Ne možete se prijaviti koristeći ove korisničke podatke. Nema pronađenih ugovora za ovog korisnika."
 
 msgid "ip_stat_1"
-msgstr "Main IP"
+msgstr "Glavni IP"
 
 msgid "ip_stat_2"
-msgstr "Additional IP"
+msgstr "Dodatni IP"
 
 msgid "ip_stat_5"
 msgstr "IPMI-IP"
 
 msgid "ip_stat_6"
-msgstr "Network IP"
+msgstr "Mrežni IP"
 
 msgid "server_not_installed"
-msgstr "This server is not installed."
+msgstr "Ovaj server nije instaliran."
 
 msgid "please_install_server_first"
-msgstr "This server is not installed. Please install the server with <q>Restore</q>."
+msgstr "Ovaj server nije instaliran. Molim instalirajte server koristeći <q>Vraćanje sustava</q>."
 
 #~ msgid "warning_restore64bit"
 #~ msgstr ""
