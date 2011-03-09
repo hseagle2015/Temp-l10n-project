@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Resellerpanel\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Intergenia AG <h.kampen@intergenia.de>\n"
+"Last-Translator: Sasa Tekovic <sasa@plus.hr>\n"
 "Language-Team: Intergenia AG <h.kampen@plusserver.de>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,130 +26,130 @@ msgid "site_title"
 msgstr "Panel"
 
 msgid "address"
-msgstr "Address"
+msgstr "Adresa"
 
 msgid "email"
 msgstr "E-mail"
 
 msgid "phone"
-msgstr "Telephone"
+msgstr "Telefon"
 
 msgid "cell_phone"
-msgstr "Cell phone"
+msgstr "Mobitel"
 
 msgid "fax"
 msgstr "Fax"
 
 msgid "user"
-msgstr "User"
+msgstr "Korisnik"
 
 msgid "not_used"
-msgstr "Not used"
+msgstr "Ne koristi se"
 
 msgid "preview"
-msgstr "Preview"
+msgstr "Pretpregled"
 
 msgid "file"
-msgstr "File"
+msgstr "Datoteka"
 
 msgid "delete"
-msgstr "delete"
+msgstr "obriši"
 
 msgid "status"
 msgstr "Status"
 
 msgid "source"
-msgstr "Source"
+msgstr "Izvor"
 
 msgid "on"
-msgstr "on"
+msgstr "uključeno"
 
 msgid "off"
-msgstr "off"
+msgstr "isključeno"
 
 msgid "test"
 msgstr "Test"
 
 msgid "test_validation"
-msgstr "Validate only"
+msgstr "Samo provjeri"
 
 msgid "upload"
-msgstr "Upload"
+msgstr "Pošalji"
 
 msgid "download"
-msgstr "Download"
+msgstr "Preuzmi"
 
 msgid "differences"
-msgstr "Differences"
+msgstr "Razlike"
 
 msgid "server"
 msgstr "Server"
 
 msgid "contract"
-msgstr "Contract"
+msgstr "Ugovor"
 
 msgid "approval"
-msgstr "Approval"
+msgstr "Odobrenje"
 
 msgid "API"
 msgstr "API"
 
 msgid "customer"
-msgstr "Customer"
+msgstr "Klijent"
 
 msgid "edit"
-msgstr "Edit"
+msgstr "Uredi"
 
 msgid "gender_unknown"
-msgstr "unknown"
+msgstr "nepoznat"
 
 msgid "gender_male"
-msgstr "Male"
+msgstr "Muški"
 
 msgid "gender_female"
-msgstr "Female"
+msgstr "Ženski"
 
 msgid "salutation_company"
-msgstr "Company"
+msgstr "Tvrtka"
 
 msgid "salutation_mrs"
-msgstr "Ms"
+msgstr "Gđa."
 
 msgid "salutation_mr"
-msgstr "Mr"
+msgstr "Gdin."
 
 msgid "salutation_title_generic"
-msgstr "Dear Customer,"
+msgstr "Poštovani korisniče,"
 
 msgid "payment_interval_1_month"
-msgstr "/ month"
+msgstr "/ mjesec"
 
 msgid "payment_interval_1_year"
-msgstr "/ year"
+msgstr "/ godina"
 
 msgid "payment_interval_24_month"
-msgstr "/ 2 years"
+msgstr "/ 2 godine"
 
 msgid "server_status_1"
-msgstr "Upcoming installation"
+msgstr "Nadolazeća instalacija"
 
 msgid "server_status_2"
-msgstr "Recovery Mode active"
+msgstr "Recovery način rada aktivan"
 
 msgid "server_status_3"
-msgstr "Upcoming Reboot"
+msgstr "Nadolazeći reboot"
 
 msgid "server_status_4"
-msgstr "Server blocked!"
+msgstr "Server blokiran!"
 
 msgid "server_status_5"
-msgstr "Waiting for Recovery Mode"
+msgstr "Ćekanje recovery načina rada"
 
 msgid "server_status_6"
-msgstr "Unconfirmed Restore"
+msgstr "Nepotvrđeno vraćanje sustava"
 
 msgid "server_status_7"
-msgstr "Upcoming Recovery Mode"
+msgstr "Nadolazeći recovery način rada"
 
 msgid "server_status_8"
 msgstr "Waiting for cancellation"
@@ -1307,40 +1307,40 @@ msgid "country_zw"
 msgstr "Zimbabwe"
 
 msgid "month_january"
-msgstr "January"
+msgstr "Siječanj"
 
 msgid "month_february"
-msgstr "February"
+msgstr "Veljača"
 
 msgid "month_march"
-msgstr "March"
+msgstr "Ožujak"
 
 msgid "month_april"
-msgstr "April"
+msgstr "Travanj"
 
 msgid "month_may"
-msgstr "May"
+msgstr "Svibanj"
 
 msgid "month_june"
-msgstr "June"
+msgstr "Lipanj"
 
 msgid "month_july"
-msgstr "July"
+msgstr "Srpanj"
 
 msgid "month_august"
-msgstr "August"
+msgstr "Kolovoz"
 
 msgid "month_september"
-msgstr "September"
+msgstr "Rujan"
 
 msgid "month_october"
-msgstr "October"
+msgstr "Listopad"
 
 msgid "month_november"
-msgstr "November"
+msgstr "Studeni"
 
 msgid "month_december"
-msgstr "December"
+msgstr "Prosinac"
 
 msgid "date_format_long"
 msgstr "%d. %B %Y"
@@ -1355,130 +1355,130 @@ msgid "datetime_format_short"
 msgstr "%d.%m.%Y, %H:%M"
 
 msgid "menu_logout"
-msgstr "Log out"
+msgstr "Odjava"
 
 msgid "menu_basics"
-msgstr "Basics"
+msgstr "Osnovno"
 
 msgid "menu_basics_overview"
-msgstr "Overview and Info"
+msgstr "Pregled i informacije"
 
 msgid "menu_imprint"
-msgstr "Legal Notice"
+msgstr "Pravna obavijest"
 
 msgid "menu_administration"
-msgstr "Administration"
+msgstr "Administracija"
 
 msgid "menu_customer_edit"
-msgstr "Contract Data"
+msgstr "Podaci o ugovoru"
 
 msgid "menu_password"
-msgstr "Change Password"
+msgstr "Promjena lozinke"
 
 msgid "menu_support"
-msgstr "Support"
+msgstr "Podrška"
 
 msgid "menu_stats"
-msgstr "Statistics"
+msgstr "Statistika"
 
 msgid "menu_tools"
-msgstr "Tools"
+msgstr "Alati"
 
 msgid "menu_reboot"
-msgstr "Reboot"
+msgstr "Ponovno pokretanje"
 
 msgid "menu_recovery"
 msgstr "Recovery"
 
 msgid "menu_restore"
-msgstr "Restore"
+msgstr "Vraćanje sustava"
 
 msgid "menu_backup_ftp"
 msgstr "Backup"
 
 msgid "menu_dns_and_domain"
-msgstr "DNS &amp; Domains"
+msgstr "DNS i domene"
 
 msgid "menu_allocate_ips"
-msgstr "Allocate IPs"
+msgstr "Alociraj IP adrese"
 
 msgid "menu_reverse_dns"
-msgstr "Reverse DNS"
+msgstr "Reverzni DNS"
 
 msgid "menu_dns"
-msgstr "Name Server"
+msgstr "Name server"
 
 msgid "next_link"
-msgstr "Forward &gt;&gt;"
+msgstr "Proslijedi &gt;&gt;"
 
 msgid "next_alt"
-msgstr "Next Page"
+msgstr "Iduća stranica"
 
 msgid "prev_link"
-msgstr "&lt;&lt; Back"
+msgstr "&lt;&lt; Natrag"
 
 msgid "prev_alt"
-msgstr "Previous Page"
+msgstr "Prethodna stranica"
 
 msgid "page_alt"
-msgstr "Page"
+msgstr "Stranica"
 
 msgid "first_page"
-msgstr "1st Page"
+msgstr "1. stranica"
 
 msgid "last_page"
-msgstr "Last Page"
+msgstr "Zadnja stranica"
 
 msgid "button_submit"
-msgstr "Submit"
+msgstr "Pošalji"
 
 msgid "button_save"
-msgstr "Save"
+msgstr "Spremi"
 
 msgid "button_cancel"
-msgstr "Cancel"
+msgstr "Otkaži"
 
 msgid "button_next"
-msgstr "Next"
+msgstr "Dalje"
 
 msgid "button_edit"
-msgstr "Edit"
+msgstr "Uredi"
 
 msgid "button_delete"
-msgstr "Delete"
+msgstr "Obriši"
 
 msgid "button_change_language"
-msgstr "Change language"
+msgstr "Promijeni jezik"
 
 msgid "button_yes"
-msgstr "Yes"
+msgstr "Da"
 
 msgid "button_no"
-msgstr "No, cancel operation"
+msgstr "Ne, otkaži operaciju"
 
 msgid "select_please_select"
-msgstr "Please select"
+msgstr "Molim odaberite"
 
 msgid "please_confirm"
-msgstr "Please confirm:"
+msgstr "Molim potvrdite:"
 
 msgid "label_language"
-msgstr "Language:"
+msgstr "Jezik:"
 
 msgid "label_company"
-msgstr "Company:"
+msgstr "Tvrtka:"
 
 msgid "label_email"
 msgstr "E-mail:"
 
 msgid "label_homepage"
-msgstr "Homepage:"
+msgstr "Web:"
 
 msgid "label_output_language"
-msgstr "Output language:"
+msgstr "Izlazni jezik:"
 
 msgid "label_file"
-msgstr "File:"
+msgstr "Datoteka:"
 
 msgid "label_status"
 msgstr "Status:"
@@ -1487,292 +1487,292 @@ msgid "label_url"
 msgstr "URL:"
 
 msgid "label_text"
-msgstr "Text:"
+msgstr "Tekst:"
 
 msgid "label_select_contract"
-msgstr "Select contract:"
+msgstr "Odaberite ugovor:"
 
 msgid "label_user"
-msgstr "User:"
+msgstr "Korisnik:"
 
 msgid "label_password"
-msgstr "Password:"
+msgstr "Lozinka:"
 
 msgid "label_repeat_password"
-msgstr "Repeat password:"
+msgstr "Ponovite lozinku:"
 
 msgid "select_panel_language"
-msgstr "Select panel language"
+msgstr "Odaberite jezik sučelja"
 
 msgid "select_user_language"
-msgstr "Select user language"
+msgstr "Odaberite jezik korisnika"
 
 msgid "attribute_required"
-msgstr "Required field"
+msgstr "Obavezno polje"
 
 msgid "attr_required"
-msgstr "Required field"
+msgstr "Obavezno polje"
 
 msgid "required_fields"
-msgstr "Required fields are marked with a red dot."
+msgstr "Obavezna polja su obilježena crvenom točkom."
 
 msgid "er_status_0"
 msgstr "Regular Mode"
 
 msgid "er_status_1"
-msgstr "Restore: Installation pending."
+msgstr "Vraćanje sustava: instalacija na čekanju."
 
 msgid "er_status_2"
-msgstr "Recovery Mode active."
+msgstr "Recovery način rada aktivan."
 
 msgid "er_status_3"
-msgstr "Reboot pending."
+msgstr "Ponovno pokretanje na čekanju."
 
 msgid "er_status_4"
-msgstr "The server ist blocked. Please contact our Support."
+msgstr "Server je blokiran. Molim kontaktirajte našu podršku."
 
 msgid "er_status_5"
-msgstr "Waiting for Recovery Mode."
+msgstr "Čekanje recovery načina rada.."
 
 msgid "er_status_6"
-msgstr "Unconfirmed Restore."
+msgstr "Nepotvrđeno vraćanje sustava."
 
 msgid "er_status_7"
-msgstr "Waiting for manual Restore Mode."
+msgstr "čekanje ručnog načina vraćanja sustava."
 
 msgid "not_available_for_this_server"
-msgstr "Not available for this server."
+msgstr "Nije dostupno za ovaj server."
 
 msgid "not_available_premium"
-msgstr "Premium Tool: Not available for this server."
+msgstr "Premium alat: nije dostupno za ovaj server."
 
 msgid "no_contract_found"
-msgstr "No server or contract found"
+msgstr "Nema pronađenih servera ili ugovora"
 
 msgid "no_access"
-msgstr "No access"
+msgstr "Bez pristupa"
 
 msgid "has_error"
-msgstr "Please check your entered data:"
+msgstr "Molim provjerite upisane podatke:"
 
 msgid "invalid_password_or_username"
-msgstr "Invalid password and/or user name."
+msgstr "Netočno korisničko ime i/ili lozinka."
 
 msgid "invalid_string_to_long"
-msgstr "{$column} is too long. {$maxlength} characters max. are allowed."
+msgstr "{$column} je produgačka. Dopušteno je najviće {$maxlength} znakova."
 
 msgid "invalid_integer"
-msgstr "Invalid digit for {$column}, min. size {$min}, max. size {$max}"
+msgstr "Netočna znamenka za {$column}, najmanja dužina je {$min}, a najveća {$max}"
 
 msgid "invalid_subdomain"
-msgstr "Invalid subdomain <q>{$subdomain}</q>."
+msgstr "Netočna poddomena <q>{$subdomain}</q>."
 
 msgid "password_forgotten_unknown_username"
-msgstr "Unknown user name"
+msgstr "Nepoznato korisničko ime"
 
 msgid "file_does_not_exits"
-msgstr "The file does not exist."
+msgstr "Datoteka ne postoji."
 
 msgid "upload_text_missing_vars"
-msgstr "The first section with the global entries is missing."
+msgstr "Nedostaje prvi dio s globalnim stavkama."
 
 msgid "upload_text_missing_sections"
-msgstr "The sections with module texts are missing."
+msgstr "Nedostaju dijelovi s tekstom modula."
 
 msgid "validate_lang_file"
-msgstr "The following entries are missing in the language file: {$missed}."
+msgstr "Sljedeće stavke nedostaju u datoteci prijevoda: {$missed}."
 
 msgid "upload_required"
-msgstr "The file for {$field} {$key} is required."
+msgstr "Potrebna je datoteka za {$field} {$key}."
 
 msgid "upload_error"
-msgstr "The file {$name} could not be uploaded."
+msgstr "Datoteku {$name} nije moguće uploadati."
 
 msgid "upload_invalid_file_extension"
-msgstr "The file extension {$extension} is invalid."
+msgstr "Ekstenzija datoteke {$extension} je neispravna."
 
 msgid "upload_invalid_file_size"
-msgstr "The file is too large. Maximum file size is {$max_file_size}."
+msgstr "Datoteka je prevelika. Najveća dopuštena veličina je {$max_file_size}."
 
 msgid "upload_no_gd_image"
-msgstr "{$name} is no valid image file."
+msgstr "{$name} nije ispravna image datoteka."
 
 msgid "upload_image_to_wide"
-msgstr "{$name} is too wide. Maximum width is {$width} Px."
+msgstr "{$name} je preširoka. Najveća dopuštena širina je {$width} px."
 
 msgid "upload_image_to_height"
-msgstr "{$name} is too high. Maximum height is {$width} Px."
+msgstr "{$name} je previsoka. Najveća dopuštena visina je {$width} px."
 
 msgid "file_has_the_wrong_encoding"
-msgstr "The file has the wrong encoding ({$encoding} required) or the identification tag for the encoding is missing."
+msgstr "Datoteka ima krivi encoding (potreban je {$encoding} encoding) ili nedostaje identifikacijski tag za encoding."
 
 msgid "missing_contact_type"
-msgstr "The contact type is missing."
+msgstr "Nedostaje vrsta kontakta."
 
 msgid "missing_salutation"
-msgstr "Please choose a salutation."
+msgstr "Molim odaberite vrstu pozdrava."
 
 msgid "missing_first_name"
-msgstr "Please enter your first name."
+msgstr "Molim upišite svoje ime."
 
 msgid "missing_last_name"
-msgstr "Please enter your last name."
+msgstr "Molim upišite svoje prezime."
 
 msgid "missing_street"
-msgstr "Street name is missing."
+msgstr "Nedostaje naziv ulice."
 
 msgid "missing_zip_code"
-msgstr "The ZIP code is missing."
+msgstr "Nedostaje poštanski broj."
 
 msgid "missing_city"
-msgstr "Please enter a city."
+msgstr "Molim upišite grad."
 
 msgid "missing_country"
-msgstr "Please select a country."
+msgstr "Molim odaberite državu."
 
 msgid "missing_state"
-msgstr "Please select a state."
+msgstr "Molim odaberite županiju."
 
 msgid "invalid_email"
-msgstr "The e-mail address is missing or invalid."
+msgstr "E-mail adresa nedostaje ili ne neispravna."
 
 msgid "missing_language"
-msgstr "Please select a language."
+msgstr "Molim odaberite jezik."
 
 msgid "invalid_contact_type"
-msgstr "Invalid contact type."
+msgstr "Neispravna vrsta kontakta."
 
 msgid "invalid_phone"
-msgstr "Invalid number for {$phone_type}."
+msgstr "Netočan brjo za {$phone_type}."
 
 msgid "invalid_user_name"
-msgstr "{$fieldset} The user name is invalid or already exists."
+msgstr "{$fieldset} Korisničko ime je netočno ili već postoji."
 
 msgid "invalid_password"
-msgstr "{$fieldset} The password is invalid."
+msgstr "{$fieldset} Lozinka je netočna."
 
 msgid "invalid_password_repeat"
-msgstr "{$fieldset} The password and the repeated password are different."
+msgstr "{$fieldset} Upisane lozinke nisu jednake."
 
 msgid "invalid_url"
-msgstr "The URL is invalid."
+msgstr "URL je neispravan."
 
 msgid "invalid_text"
-msgstr "The text is invalid."
+msgstr "Tekst je neispravan."
 
 msgid "invalid_subject"
-msgstr "The subject is invalid."
+msgstr "Naslov je neispravan."
 
 msgid "invalid_footer"
-msgstr "The footer is invalid."
+msgstr "Podnožje je neispravno."
 
 msgid "to_much_text_placeholder"
-msgstr "The following placeholders can not be used: {$placeholder}."
+msgstr "Sljedeći placeholderi se ne mogu koristiti: {$placeholder}."
 
 msgid "missed_text_placeholder"
-msgstr "Please complete the following placeholders: {$placeholder}."
+msgstr "Molim dovršite sljedeće placeholdere: {$placeholder}."
 
 msgid "invalid_css_color"
-msgstr "Invalid color definition in the field {$field}."
+msgstr "Nispravna definicija boje u polju {$field}."
 
 msgid "invalid_css_font_size"
-msgstr "Invalid font size in the field {$field}."
+msgstr "Neispravna veličina fonta u polju {$field}."
 
 msgid "invalid_auth_code"
-msgstr "Invalid authorization code"
+msgstr "Neispravan autorizacijski kôd"
 
 msgid "invalid_reboot_method"
-msgstr "Invalid reboot method"
+msgstr "Neispravna metoda ponovnog pokretanja"
 
 msgid "invalid_ip"
-msgstr "Invalid IP"
+msgstr "Neispravan IP"
 
 msgid "server_not_found"
-msgstr "The server is not available"
+msgstr "Server nije dostupan"
 
 msgid "server_not_available_by_tech"
-msgstr "The server is not available due to technical reasons."
+msgstr "Server je nedostupan zbog tehničkih razloga."
 
 msgid "server_not_available_by_billing"
-msgstr "The server is not available due to contract reasons."
+msgstr "Server je nedostupan zbog ugovornih razloga."
 
 msgid "please_select_a_display_type"
-msgstr "Please select a display type."
+msgstr "Molim odaberite vrstu prikaza."
 
 msgid "legend_new_account"
-msgstr "New account"
+msgstr "Novi račun"
 
 msgid "legend_account"
-msgstr "Account"
+msgstr "Račun"
 
 msgid "invalid_template_id"
-msgstr "Invalid template"
+msgstr "Neispravan predložak"
 
 msgid "server_already_for_reseller"
-msgstr "The server has already been setup as reseller server."
+msgstr "Server je već podešen kao resellerski server."
 
 msgid "invalid_domain"
-msgstr "Invalid domain"
+msgstr "Neispravna domena"
 
 msgid "missing_server_name"
-msgstr "The server name is missing or invalid."
+msgstr "Naziv servera je neispravan ili nedostaje."
 
 msgid "dns_error_variable_invalid"
-msgstr "This variable cannot be set."
+msgstr "Ova se varijabla ne moze podesiti."
 
 msgid "dns_error_domain_not_existing"
-msgstr "This domain does not exist."
+msgstr "Ova domena ne postoji."
 
 msgid "dns_error_domain_ownership_invalid"
-msgstr "This domain does not belong to you."
+msgstr "Ova domena ne pripada vama."
 
 msgid "dns_error_entry_not_existing"
-msgstr "This entry is not existing."
+msgstr "Ovaj zapis je nepostojeći."
 
 msgid "dns_error_targetAddress_invalid"
-msgstr "The target address is invalid."
+msgstr "Odredišna adresa je neispravna."
 
 msgid "dns_error_ipAddress_invalid"
-msgstr "The IP address is invalid."
+msgstr "IP adresa je neispravna."
 
 msgid "dns_error_domainName_invalid"
-msgstr "The domain name is invalid."
+msgstr "Domena je neispravna."
 
 msgid "dns_error_subDomain_invalid"
-msgstr "The sub domain is invalid."
+msgstr "Poddomena je neispravna."
 
 msgid "dns_error_dnsTypeID_invalid"
-msgstr "The selected sub domain type is invalid."
+msgstr "Vrsta odabrane poddomene je neispravna."
 
 msgid "dns_error_spfEntry_invalid"
-msgstr "The SPF entry is invalid."
+msgstr "SPF zapis je netocan."
 
 msgid "dns_error_domain_exists"
-msgstr "This domain is already existing."
+msgstr "Ova domena već postoji."
 
 msgid "dns_error_domain_cannot_be_added"
-msgstr "This domain could not be added. Please contact the support team."
+msgstr "Ovu domenu nije moguće dodati. Molim kontaktirajte podršku."
 
 msgid "dns_error_domain_cannot_be_loaded"
-msgstr "This domain could not be loaded. Please contact the support team."
+msgstr "Ovu domenu nije moguće učitati. Molim kontaktirajte podršku."
 
 msgid "dns_error_domain_cannot_be_deleted"
-msgstr "This domain could not be deleted. Please contact the support team."
+msgstr "Ovu domenu nije moguće obrisati. Molim kontaktirajte podršku."
 
 msgid "dns_error_entry_cannot_be_added"
-msgstr "This entry could not be added. Please contact the support team."
+msgstr "Ovaj zapis nije moguće dodati. Molim kontaktirajte podršku."
 
 msgid "dns_error_entry_cannot_be_updated"
-msgstr "This entry could not be updated. Please contact the support team."
+msgstr "Ovaj zapis nije moguće ažurirati. Molim kontaktirajte podršku."
 
 msgid "dns_error_entry_cannot_be_deleted"
-msgstr "This entry could not be deleted. Please contact the support team."
+msgstr "Ovaj zapis nije moguće obrisati. Molim kontaktirajte podršku."
 
 msgid "unavailable_option"
-msgstr "This option is not available for your server type."
+msgstr "Ova opcija nije dostupna za vrstu vašeg servera."
 
 msgid "er_1"
-msgstr "Wrong date format"
+msgstr "Krivi format datuma"
 
 msgid "er_1001"
 msgstr "{#missing_server_name#}"
@@ -1781,37 +1781,37 @@ msgid "er_1002"
 msgstr "{#server_not_found#}"
 
 msgid "er_1003"
-msgstr "The delay is invalid"
+msgstr "Odgoda je neispravna"
 
 msgid "er_1004"
-msgstr "Invalid method"
+msgstr "Neispravna metoda"
 
 msgid "er_1006"
-msgstr "Restore in progress"
+msgstr "Vraćanje sustava u tijeku"
 
 msgid "er_1007"
-msgstr "Recovery is <em>not</em> executed"
+msgstr "Recovery <em>nije</em> izvršen"
 
 msgid "er_1008"
-msgstr "There is already an open Reboot request for this server."
+msgstr "Već postoji otvoren zahtjev za ponovno pokretanje servera."
 
 msgid "er_1009"
-msgstr "The history could not be added"
+msgstr "Povijest nije mogla biti dodana"
 
 msgid "er_1010"
-msgstr "Subscription and Customer are missing"
+msgstr "Nedostaju pretplata i klijent"
 
 msgid "er_1011"
-msgstr "Reboot failed"
+msgstr "Ponovno pokretanje nije uspjelo"
 
 msgid "er_1012"
-msgstr "The boot file could not be defined"
+msgstr "Definiranje boot datoteke nije uspjelo"
 
 msgid "er_1013"
-msgstr "Invalid software reboot"
+msgstr "Neispravno softversko ponovno pokretanje"
 
 msgid "er_1103"
-msgstr "No templates found."
+msgstr "Predlošci nisu pronađeni."
 
 msgid "er_1201"
 msgstr "{#server_not_found#}"
@@ -1820,43 +1820,43 @@ msgid "er_1202"
 msgstr "{#missing_server_name#}"
 
 msgid "er_1203"
-msgstr "The authentication code is wrong"
+msgstr "Netočan autentifikacijski kôd"
 
 msgid "er_1204"
-msgstr "The template does not exist"
+msgstr "Predložak ne postoji"
 
 msgid "er_1205"
-msgstr "There is no scheduled installation for this server."
+msgstr "Nema zakazane instalacije za ovaj server."
 
 msgid "er_1206"
-msgstr "Invalid password"
+msgstr "Neispravna lozinka"
 
 msgid "er_1207"
-msgstr "Another installation is scheduled."
+msgstr "Već je zakazana druga instalacija."
 
 msgid "er_1208"
-msgstr "The history could not be updated."
+msgstr "Ažuriranje povijesti nije uspjelo."
 
 msgid "er_1209"
-msgstr "The restore could not be entered."
+msgstr "Ulazak u vraćanje sustava nije uspio."
 
 msgid "er_1210"
-msgstr "The admin password is invalid."
+msgstr "Lozinka administratora je neispravna."
 
 msgid "er_1211"
-msgstr "The bootfile could not be written or the server is blocked."
+msgstr "Bootfile nije moguće zapisati ili je server blokiran."
 
 msgid "er_1212"
-msgstr "The kickstart file could not be defined."
+msgstr "Definiranje kickstart datoteke nije uspjelo."
 
 msgid "er_1213"
-msgstr "Reboot request failed."
+msgstr "Zahtjev ponovnog pokretanja nije uspio."
 
 msgid "er_1214"
-msgstr "No licenses available."
+msgstr "Nema dostupnih licenci."
 
 msgid "er_1215"
-msgstr "The server is blocked."
+msgstr "Server je blokiran."
 
 msgid "er_1301"
 msgstr "{#server_not_found#}"
@@ -1865,10 +1865,10 @@ msgid "er_1302"
 msgstr "{#missing_server_name#}"
 
 msgid "er_1303"
-msgstr "There is no scheduled installation for this server."
+msgstr "Za ovaj server nema zakazanih instalacija."
 
 msgid "er_1304"
-msgstr "The reboot can not be canceled."
+msgstr "Ponovno pokretanje se ne može otkazati."
 
 msgid "er_1401"
 msgstr "{#server_not_found#}"
@@ -1877,31 +1877,31 @@ msgid "er_1402"
 msgstr "{#missing_server_name#}"
 
 msgid "er_1403"
-msgstr "Restore in progress"
+msgstr "Vraćanje sustava u tijeku"
 
 msgid "er_1404"
-msgstr "The server is already in Recovery Mode"
+msgstr "Server je već u recovery načinu rada"
 
 msgid "er_1405"
-msgstr "Invalid password"
+msgstr "Neispravna lozinka"
 
 msgid "er_1406"
 msgstr "{#invalid_email#}"
 
 msgid "er_1407"
-msgstr "The history could not be added"
+msgstr "Dodavanje povijesti nije uspjelo"
 
 msgid "er_1408"
-msgstr "The recovery entry could not be added"
+msgstr "Dodavanje recovery stavke nije uspjelo"
 
 msgid "er_1409"
-msgstr "Recovery cancellation failed"
+msgstr "Otkazivanje recovery akcije nije uspjelo"
 
 msgid "er_1410"
-msgstr "The bootfile could not be set or the server is blocked"
+msgstr "Bootfile nije moguće postaviti ili je server blokiran"
 
 msgid "er_1411"
-msgstr "Reboot could not be executed"
+msgstr "Ponovno pokretanje nije moglo biti izvršeno"
 
 msgid "er_1501"
 msgstr "{#server_not_found#}"
@@ -1910,10 +1910,10 @@ msgid "er_1502"
 msgstr "{#missing_server_name#}"
 
 msgid "er_1503"
-msgstr "The server is not in recovery mode"
+msgstr "Server nije u recovery načinu rada"
 
 msgid "er_1504"
-msgstr "The bootfile could not be written or the server is blocked."
+msgstr "Zapisivanje bootfilea nije moguće ili je server blokiran."
 
 msgid "er_1601"
 msgstr "{#server_not_found#}"
@@ -1922,22 +1922,22 @@ msgid "er_1602"
 msgstr "{#missing_server_name#}"
 
 msgid "er_1603"
-msgstr "Invalid password"
+msgstr "Neispravna lozinka"
 
 msgid "er_1604"
-msgstr "Invalid disk space value"
+msgstr "Neispravna vrijednost veličine diska"
 
 msgid "er_1605"
-msgstr "The user already exists"
+msgstr "Korisnik već postoji"
 
 msgid "er_1606"
-msgstr "Insufficient backup space."
+msgstr "Nedovoljno prostora za backup."
 
 msgid "er_1607"
-msgstr "The entry could not be added to the history."
+msgstr "Dodavanje zapisa u povijest nije uspjelo."
 
 msgid "er_1608"
-msgstr "The user could not be added."
+msgstr "Dodavanje korisnika nije uspjelo."
 
 msgid "er_1701"
 msgstr "{#server_not_found#}"
@@ -1946,19 +1946,19 @@ msgid "er_1702"
 msgstr "{#missing_server_name#}"
 
 msgid "er_1703"
-msgstr "Invalid password"
+msgstr "Neispravna lozinka"
 
 msgid "er_1704"
-msgstr "Invalid disk space value"
+msgstr "Neispravna vrijednost veličine diska"
 
 msgid "er_1705"
-msgstr "The user does not exist."
+msgstr "Korisnik ne postoji."
 
 msgid "er_1706"
-msgstr "Insufficient backup space."
+msgstr "Nedovoljno prostora za backup."
 
 msgid "er_1707"
-msgstr "The database could not be updated."
+msgstr "Baza podataka nije mogla biti ažurirana."
 
 msgid "er_1901"
 msgstr "{#server_not_found#}"
@@ -1967,22 +1967,22 @@ msgid "er_1902"
 msgstr "{#missing_server_name#}"
 
 msgid "er_1903"
-msgstr "Missing IP address"
+msgstr "Nedostaje IP adresa"
 
 msgid "er_1904"
-msgstr "The IP addresses do not exist or do not belong to the server."
+msgstr "IP adrese ne postoje ili ne pripadaju vašem serveru."
 
 msgid "er_1905"
-msgstr "The reverse entry has an invalid format or does not point to the IP address."
+msgstr "Reverzni zapis je neispravnog formata ili nije usmjeren na IP adresu."
 
 msgid "er_1906"
-msgstr "There are no additional backup accounts available at the moment."
+msgstr "Trenutno nisu dostupni dodatni backup računi."
 
 msgid "er_2001"
 msgstr "{#server_not_found#}"
 
 msgid "er_2002"
-msgstr "No IP addresses found for this server."
+msgstr "Nema pronađenih IP adresa za ovaj server."
 
 msgid "er_2003"
 msgstr "{#missing_server_name#}"
@@ -1994,10 +1994,10 @@ msgid "er_2102"
 msgstr "{#missing_server_name#}"
 
 msgid "er_2103"
-msgstr "There are no IP addresses available at the moment, please contact our Support Department."
+msgstr "Trenutno nema dostupnih IP adresa, molim kontaktirajte našu podršku."
 
 msgid "er_2104"
-msgstr "There is an error in the amount"
+msgstr "Postoji greška u iznosu"
 
 msgid "er_2201"
 msgstr "{#server_not_found#}"
@@ -2006,16 +2006,16 @@ msgid "er_2202"
 msgstr "{#missing_server_name#}"
 
 msgid "er_2203"
-msgstr "The IP address does not belong to this server"
+msgstr "IP adresa ne pripada ovom serveru"
 
 msgid "er_2204"
-msgstr "This is the main IP address and can not be removed."
+msgstr "Ovo je glavna IP adresa, te je nije moguće ukloniti."
 
 msgid "er_2205"
-msgstr "The IP address is not allocated to a server."
+msgstr "Ova IP adresa nije alocirana serveru."
 
 msgid "er_2206"
-msgstr "The IP address could not be removed."
+msgstr "IP adresa nije mogla biti uklonjena."
 
 msgid "er_2801"
 msgstr "{#server_not_found#}"
@@ -2024,259 +2024,259 @@ msgid "er_2802"
 msgstr "{#missing_server_name#}"
 
 msgid "er_2901"
-msgstr "No templates could be found for this server."
+msgstr "Nema pronađenih predložaka za ovaj server."
 
 msgid "er_2902"
 msgstr "{#server_not_found#}"
 
 msgid "er_2904"
-msgstr "[exception] Invalid parameter"
+msgstr "[exception] Neispravan parametar"
 
 msgid "er_10301"
-msgstr "Bandwidth: The server name could not be resolved."
+msgstr "Bandwidth: Adresa servera se nije mogla resolveati."
 
 msgid "er_10302"
-msgstr "Bandwidth: No account ID has been given."
+msgstr "Bandwidth: Nije definiran ID računa."
 
 msgid "er_10303"
-msgstr "Bandwidth: No subscription ID has been given."
+msgstr "Bandwidth: Nije definiran ID pretplate."
 
 msgid "er_10304"
-msgstr "Bandwidth: No setting specified."
+msgstr "Bandwidth: Nema definiranih postavki."
 
 msgid "er_10305"
-msgstr "Bandwidth: The e-mail address is invalid."
+msgstr "Bandwidth: Neispravna e-mail adresa."
 
 msgid "er_10306"
-msgstr "Bandwidth: No daily or weekly e-mail has been chosen."
+msgstr "Bandwidth: Nije odabran dnevni ili tjedni e-mail."
 
 msgid "er_10307"
-msgstr "Bandwidth: No type given."
+msgstr "Bandwidth: Nije definirana vrsta."
 
 msgid "er_10309"
-msgstr "Bandwidth: Invalid caller ID."
+msgstr "Bandwidth: Neispravan caller ID."
 
 msgid "er_10308"
-msgstr "Bandwidth: The initial point could not be found."
+msgstr "Bandwidth: Inicijalna točka nije pronađena."
 
 msgid "er_10310"
-msgstr "Bandwidth: No IP addresses."
+msgstr "Bandwidth: Nema IP adresa."
 
 msgid "er_10311"
-msgstr "Bandwidth: At least 1 IP address is not assigned to the server."
+msgstr "Bandwidth: Barem 1 IP adresa nije dodijeljena serveru."
 
 msgid "er_10312"
-msgstr "Bandwidth: The function listips gave an error."
+msgstr "Bandwidth: Funkcija listips je vratila grešku."
 
 msgid "er_10313"
-msgstr "Bandwidth: Invalid data type."
+msgstr "Bandwidth: Neispravna vrsta datoteke."
 
 msgid "er_10314"
-msgstr "Bandwidth: The timeperiod was not set."
+msgstr "Bandwidth: Timeperiod nije podešen."
 
 msgid "er_10315"
-msgstr "Bandwidth: Wrong default settings."
+msgstr "Bandwidth: Krive zadane postavke."
 
 msgid "er_10316"
-msgstr "Bandwidth: Start time settings are wrong."
+msgstr "Bandwidth: Postavke početnog vremena su krive."
 
 msgid "er_10317"
-msgstr "Bandwidth: End time settings are wrong."
+msgstr "Bandwidth: Postavke krajnjeg vremena su krive."
 
 msgid "er_10318"
-msgstr "Bandwidth: Export type is not specified."
+msgstr "Bandwidth: Vrsta izvoza nije definirana."
 
 msgid "er_10319"
-msgstr "Bandwidth: The function getActiveSince failed."
+msgstr "Bandwidth: Funkcija getActiveSince nije uspjela."
 
 msgid "er_10320"
-msgstr "Bandwidth: The time period is too long."
+msgstr "Bandwidth: Vremenski period je predugačak."
 
 msgid "er_10321"
-msgstr "Bandwidth: The digits after the comma are wrong."
+msgstr "Bandwidth: Znamenke nakon zareza su netočne."
 
 msgid "er_10322"
-msgstr "Bandwidth: Wrong factor."
+msgstr "Bandwidth: Krivi faktor."
 
 msgid "er_10323"
-msgstr "The start date is before the contract start date."
+msgstr "Datum početka je prije početka ugovora."
 
 msgid "er_10324"
-msgstr "The end date is earlier than the start date."
+msgstr "Datum isteka je prije datuma početka."
 
 msgid "er_10325"
-msgstr "Bandwidth: The ZKM traffic information is not working."
+msgstr "Bandwidth: ZKM informacije prometa ne funkcioniraju."
 
 msgid "er_10330"
-msgstr "The caller ID is invalid."
+msgstr "Caller ID je neispravan."
 
 msgid "er_10332"
-msgstr "Bandwidth: The remote IP address is invalid."
+msgstr "Bandwidth: Remote IP addesa je neispravna."
 
 msgid "er_10331"
-msgstr "Bandwidth: Wrong mobile."
+msgstr "Bandwidth: Krivi broj mobitela."
 
 msgid "er_10333"
-msgstr "Bandwidth: One or more settings include negative values."
+msgstr "Bandwidth: Jedna ili više postavki uključuje negativne vrijednosti."
 
 msgid "er_10334"
-msgstr "Bandwidth: Invalid setting (no digits ...)"
+msgstr "Bandwidth: Neispravna postakva (nema znamenki ...)"
 
 msgid "er_10335"
-msgstr "Bandwidth: SMS warning: invalid setting"
+msgstr "Bandwidth: SMS upozorenje: neispravna postavka"
 
 msgid "er_10336"
-msgstr "Bandwidth: Invalid time period"
+msgstr "Bandwidth: Neispravan vremenski period"
 
 msgid "er_10337"
-msgstr "Bandwidth: No start time specified."
+msgstr "Bandwidth: Datum početka nije definiran."
 
 msgid "er_10340"
-msgstr "Bandwidth: The last digits are invalid."
+msgstr "Bandwidth: Posljednje znamenke su netočne."
 
 msgid "er_10342"
-msgstr "Bandwidth: Invalid output."
+msgstr "Bandwidth: Neispravan rezultat."
 
 msgid "er_10343"
-msgstr "Bandwidth: Differing time periods"
+msgstr "Bandwidth: Različiti vremenski periodi"
 
 msgid "er_10344"
-msgstr "Bandwidth: Wrong name."
+msgstr "Bandwidth: Netočan naziv."
 
 msgid "er_10346"
-msgstr "Bandwidth: Graph data is insufficient."
+msgstr "Bandwidth: Nema dovoljno podataka za graf."
 
 msgid "er_10347"
-msgstr "Bandwidth: No size specified."
+msgstr "Bandwidth: Veličina nije definirana."
 
 msgid "er_15555"
-msgstr "Product ID not defined"
+msgstr "ID proizvoda nije definiran"
 
 msgid "er_20001"
-msgstr "A technical error has occurred. The e-mail could not be sent."
+msgstr "Došlo je do tehničke greške. E-mail nije poslan."
 
 msgid "er_no_module_access"
-msgstr "The module is not available"
+msgstr "Modul nije dostupan"
 
 msgid "page_title_Login"
-msgstr "Login"
+msgstr "Prijava"
 
 msgid "label_reseller_customers"
-msgstr "Reseller customers:"
+msgstr "Reseller klijenti:"
 
 msgid "username_"
-msgstr "User name:"
+msgstr "Korisničko ime:"
 
 msgid "password_"
-msgstr "Password:"
+msgstr "Lozinka:"
 
 msgid "forgotten_password_title"
-msgstr "Forgot password?"
+msgstr "Zaboravili ste lozinku?"
 
 msgid "forgotten_password_text"
-msgstr "If you have forgotten your password, you can enter your login name here. You will then receive a new password."
+msgstr "Ako ste zaboravili lozinku, ovdje možete upisati svoje korisničko ime, a lozinka će vam biti poslana"
 
 msgid "button_login"
-msgstr "Login"
+msgstr "Prijava"
 
 msgid "title_password_was_send"
-msgstr "A new password has been set."
+msgstr "Nova lozinka je poslana."
 
 msgid "text_password_was_send_1"
-msgstr "The new password has just been sent to your provided e-mail address."
+msgstr "Nova lozinka je upravo poslana na vašu e-mail adresu."
 
 msgid "text_password_was_send_2"
-msgstr "<a href=\"/\">You may login again here</a>."
+msgstr "<a href=\"/\">Sada se možete prijaviti ovdje</a>."
 
 msgid "to_much_logins"
-msgstr "Too many login attempts. Please wait a few minutes until you can login again."
+msgstr "Previše neuspješnih pokušaja prijave. Molim pričekajte nekoliko minta prije ponovnog pokušaja."
 
 msgid "login_denied"
-msgstr "Login denied"
+msgstr "Prijava odbijena"
 
 msgid "page_title_Index"
-msgstr "Start"
+msgstr "Početna"
 
 msgid "description_allocate_ips"
-msgstr "You can order additional IPs here."
+msgstr "IP adrese možete naručiti ovdje."
 
 msgid "description_customer_edit"
-msgstr "Manage your user data."
+msgstr "Upravljajte svojim korisničkim podacima."
 
 msgid "description_password"
-msgstr "Please change your password regularly."
+msgstr "Molimo vas da svoju lozinku redovno mijenjate."
 
 msgid "description_support"
-msgstr "Contact information for support requests."
+msgstr "Kontakt podaci za upite podršci."
 
 msgid "description_imprint"
 msgstr " "
 
 msgid "description_reboot"
-msgstr "Restart your server."
+msgstr "Ponovno pokrenite svoj server."
 
 msgid "description_recovery"
-msgstr "Switch your server to Recovery Mode."
+msgstr "Prebacite svoj server u recovery način rada."
 
 msgid "description_restore"
-msgstr "Reinstall your server."
+msgstr "Reinstalirajte svoj server."
 
 msgid "description_backup_ftp"
-msgstr "A backup tool for FTP."
+msgstr "Backup alat za FTP."
 
 msgid "description_stats"
-msgstr "Tables and graphs showing your bandwidth."
+msgstr "Tablice i grafovi koji prikazuju potrošnju bandwidtha."
 
 msgid "description_reverse_dns"
-msgstr "Setup and manage reverse entries."
+msgstr "Podesite i upravljajte reverznim zapisima."
 
 msgid "description_dns"
 msgstr " "
 
 msgid "page_title_ShowImprint"
-msgstr "Legal notice"
+msgstr "Pravni uvjeti"
 
 msgid "page_title_ChangePassword"
-msgstr "Change password"
+msgstr "Promjena lozinke"
 
 msgid "legend_enter_password"
-msgstr "Enter password"
+msgstr "Upišite lozinku"
 
 msgid "description_password_1"
-msgstr "We recommend you change your password regulaly."
+msgstr "Naša preporuka je da lozinku redovito mijenjate."
 
 msgid "header_2"
-msgstr "Information"
+msgstr "Informacije"
 
 msgid "description_password_2_1"
-msgstr "The system will log you out automatically after you have changed your password."
+msgstr "Sustav će vas automatski odjaviti nakon promjene lozinke."
 
 msgid "description_password_2_2"
-msgstr "Your password has to be composed of at least 8 characters and a combination of letters and digits. You should choose a password, which can not be easily guessed by other people."
+msgstr "Vašu lozinka se mora sastojati od najmanje 8 znakova, te kombinacije slova i brojki, koju ostale osobe ne mogu pogoditi."
 
 msgid "js_invalid_password"
-msgstr "The password is invalid."
+msgstr "Lozinka je neispravna."
 
 msgid "js_invalid_password_repeat"
-msgstr "The password and the repeated password are different."
+msgstr "Upisane lozinke nisu jednake."
 
 msgid "page_title_Support"
-msgstr "Support"
+msgstr "Podrška"
 
 msgid "th_land"
-msgstr "Country:"
+msgstr "Država:"
 
 msgid "th_phone"
-msgstr "Phone:"
+msgstr "Telefon:"
 
 msgid "th_provider"
-msgstr "Provider:"
+msgstr "Pružatelj usluge:"
 
 msgid "th_tarif"
-msgstr "Rate:"
+msgstr "Tarifa:"
 
 msgid "th_worktime"
-msgstr "Business hours:"
+msgstr "Radni sati:"
 
 msgid "support_platinum_default"
 msgstr ""
@@ -2351,94 +2351,94 @@ msgstr ""
 "COUNTRY:Austria"
 
 msgid "page_title_Statistiken"
-msgstr "Stats"
+msgstr "Statistika"
 
 msgid "page_title_CustomerEdit"
-msgstr "Contract data"
+msgstr "Podaci o ugovoru"
 
 msgid "title_customer_config"
-msgstr "Name, address, contact"
+msgstr "Ime, adresa, kontakt"
 
 msgid "title_user_account"
-msgstr "User account"
+msgstr "Korisnički račun"
 
 msgid "legend_name"
-msgstr "Name"
+msgstr "Ime"
 
 msgid "legend_address"
-msgstr "Address"
+msgstr "Adresa"
 
 msgid "legend_contact"
-msgstr "Contact"
+msgstr "Kontakt"
 
 msgid "legend_miscellaneous"
-msgstr "Misc."
+msgstr "Razno"
 
 msgid "label_contact_type"
-msgstr "Salutation:"
+msgstr "Pozdrav:"
 
 msgid "label_gender"
-msgstr "Gender:"
+msgstr "Spol:"
 
 msgid "label_firstname"
-msgstr "First Name:"
+msgstr "Ime:"
 
 msgid "label_middlename"
-msgstr "Middle Name:"
+msgstr "Srednje ime:"
 
 msgid "label_lastname"
-msgstr "Last Name:"
+msgstr "Prezime:"
 
 msgid "label_street"
-msgstr "Street Name:"
+msgstr "Ulica:"
 
 msgid "label_address_addition"
-msgstr "Address Addition:"
+msgstr "Ulica (dodatak):"
 
 msgid "label_zipcode"
-msgstr "ZIP code:"
+msgstr "Poštanski broj:"
 
 msgid "label_city"
-msgstr "City:"
+msgstr "Grad:"
 
 msgid "label_country"
-msgstr "Country:"
+msgstr "Država:"
 
 msgid "label_state"
-msgstr "State:"
+msgstr "Županija:"
 
 msgid "label_phone"
-msgstr "Phone:"
+msgstr "Telefon:"
 
 msgid "label_cell_phone"
-msgstr "Cell Phone:"
+msgstr "Mobitel:"
 
 msgid "label_fax"
 msgstr "Fax:"
 
 msgid "label_reseller_id"
-msgstr "Your customer ID:"
+msgstr "Your korisnički ID:"
 
 msgid "label_allow_add_user"
-msgstr "User is allowed to add further users."
+msgstr "Korisnik može dodavati druge korisnike."
 
 msgid "label_block_panel_for_user"
-msgstr "Block Reseller Panel for this user."
+msgstr "Blokiraj reseller panel ovom korisniku."
 
 msgid "label_send_message_to_customer"
-msgstr "Send notification of change to customer."
+msgstr "Pošalji korisniku obavijest o promjeni."
 
 msgid "attribute_phone_country"
-msgstr "Country code"
+msgstr "Kôd države"
 
 msgid "attribute_phone_city"
-msgstr "Area code"
+msgstr "Pozivni broj"
 
 msgid "attribute_phone_number"
-msgstr "Number"
+msgstr "Broj"
 
 msgid "button_delete_customer"
-msgstr "Delete customer"
+msgstr "Obriši klijenta"
 
 msgid "page_title_Restore"
 msgstr "PowerRestore"
@@ -2447,22 +2447,22 @@ msgid "page_title_Restore_extra"
 msgstr "PremiumRestore"
 
 msgid "header_1"
-msgstr "Request a Reinstall"
+msgstr "zatraži reinstalaciju"
 
 msgid "header_3"
-msgstr "E-mail verification"
+msgstr "E-mail verifikacija"
 
 msgid "os_select"
-msgstr "Operating system and control panel"
+msgstr "Operativni sustav i control panel"
 
 msgid "password"
-msgstr "Root password"
+msgstr "Root lozinka"
 
 msgid "admin_password"
-msgstr "Admin password"
+msgstr "Admin lozinka"
 
 msgid "continue"
-msgstr "Next"
+msgstr "Dalje"
 
 msgid "description_text_1"
 msgstr "Here you may reset your server to its original status. Your restore will start immediately after you've confirmed the authorization code (will be sent by e-mail) and selected the operating system. <strong>Remember that all data will be lost.</strong><br /><br />Before restoring your server, you should remember to backup all important data. A restore is free."
